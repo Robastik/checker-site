@@ -170,7 +170,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Award winning enterprises trust us
+  - subtitle: Магия экосистемы Гугл
     images:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
