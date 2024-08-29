@@ -31,7 +31,7 @@
         },
         {
             "label": "Справка",
-            "altText": "Careers page",
+            "altText": "Документация",
             "url": "/careers",
             "icon": "arrowRight",
             "iconPosition": "right",
