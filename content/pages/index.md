@@ -119,10 +119,9 @@ sections:
         type: FeaturedItem
       - title: Независимость
         subtitle: от стороннего сервиса
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Полное владение функционалом позволяет в любой момент добавить нужный
+          расчет. 
         image:
           url: /images/icon3.svg
           altText: Featured icon three
