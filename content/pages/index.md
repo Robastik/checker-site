@@ -62,7 +62,7 @@ sections:
     subtitle: для безграничного роста через понимание своих цифр
     items:
       - type: FeaturedItem
-        title: 500k
+        title: Порядок
         subtitle: Numbers Done
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
