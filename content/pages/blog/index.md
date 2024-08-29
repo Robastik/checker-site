@@ -5,7 +5,7 @@ numOfPostsPerPage: 12
 enableSearch: false
 topSections:
   - title:
-      text: Featured Post
+      text: Справочная документация
       color: text-dark
       type: TitleBlock
     subtitle: This is the subtitle
