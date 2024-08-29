@@ -92,10 +92,9 @@ sections:
               borderRadius: x-large
       - title: Достоверность
         subtitle: через прозрачность
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Полный контроль данных дает понимание каждого рассчитанного на их
+          основе показателя, его смысла, актуальности и обоснованности. 
         image:
           url: /images/icon2.svg
           altText: Featured icon two
