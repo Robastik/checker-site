@@ -90,7 +90,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: Прозрачность
+      - title: Достоверность
         subtitle: через прозрачность
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
