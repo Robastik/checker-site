@@ -22,7 +22,7 @@
         },
         {
             "label": "Блог",
-            "altText": "Blog",
+            "altText": "Новости",
             "url": "/blog",
             "icon": "arrowRight",
             "iconPosition": "right",
