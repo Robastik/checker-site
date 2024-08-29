@@ -2,13 +2,13 @@
 title: Blog
 slug: /blog
 numOfPostsPerPage: 12
-enableSearch: true
+enableSearch: false
 topSections:
   - title:
-      text: Featured Post
+      text: Справочная документация
       color: text-dark
       type: TitleBlock
-    subtitle: This is the subtitle
+    subtitle: Возможности и применение
     posts:
       - content/pages/blog/top-ten-lessons-we-learned.md
     showThumbnail: true
