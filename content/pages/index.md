@@ -149,7 +149,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: три главных
+      label: главное
       color: text-primary
       styles:
         self:
