@@ -8,7 +8,7 @@ topSections:
       text: Справочная документация
       color: text-dark
       type: TitleBlock
-    subtitle: This is the subtitle
+    subtitle: Возможности и применение
     posts:
       - content/pages/blog/top-ten-lessons-we-learned.md
     showThumbnail: true
