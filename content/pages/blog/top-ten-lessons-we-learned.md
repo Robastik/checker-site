@@ -2,7 +2,7 @@
 title: 'Как все устроено: краткий обзор'
 slug: top-ten-lessons-we-learned
 date: '2024-08-25'
-excerpt: Для начала использоания
+excerpt: 'Для начала использоания сделайте копию файла таблицы, расположен'
 featuredImage:
   url: /images/abstract-feature2.svg
   altText: Thumbnail
