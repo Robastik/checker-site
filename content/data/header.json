@@ -30,7 +30,7 @@
             "type": "Link"
         },
         {
-            "label": "Careers",
+            "label": "Справка",
             "altText": "Careers page",
             "url": "/careers",
             "icon": "arrowRight",
