@@ -64,10 +64,10 @@ sections:
       - type: FeaturedItem
         title: Порядок
         subtitle: структуры данных
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Структура данных позволяет хранить, обрабатывать и предоставлять
+          доступ к сведениям в облаке за любой период времени с разделением
+          ролей и прав доступа.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
