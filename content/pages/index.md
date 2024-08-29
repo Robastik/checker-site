@@ -13,7 +13,7 @@ sections:
 
       *   для любого масштаба **бизнеса на маркетплейсах**
     actions:
-      - label: Get started
+      - label: Начать
         altText: ''
         url: /
         showIcon: false
