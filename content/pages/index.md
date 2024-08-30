@@ -91,7 +91,7 @@ sections:
             self:
               borderRadius: x-large
         tagline: апывп
-      - title: Достов
+      - title: Достоверность
         subtitle: через прозрачность
         text: >
           Полный контроль данных дает понимание каждого рассчитанного на их
