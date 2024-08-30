@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Полный контроль селлера над цифрами
+      text: Выгрузка данных личного кабинета по API
       color: text-dark
       type: TitleBlock
     subtitle: в облаке Гугл
