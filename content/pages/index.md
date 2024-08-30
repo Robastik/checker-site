@@ -8,9 +8,8 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: в облако Гугл
-    text: |+
-      для любого масштаба **бизнеса**
-
+    text: |
+      для любого масштаба бизнеса
     actions:
       - label: Начать
         altText: ''
