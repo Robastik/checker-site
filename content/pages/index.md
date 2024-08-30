@@ -90,7 +90,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: Достоверность
+      - title: Достов
         subtitle: через прозрачность
         text: >
           Полный контроль данных дает понимание каждого рассчитанного на их
