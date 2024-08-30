@@ -90,6 +90,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
+        tagline: апывп
       - title: Достов
         subtitle: через прозрачность
         text: >
