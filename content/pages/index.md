@@ -122,7 +122,6 @@ sections:
           расчет. Не нужно ждать сторонний сервис - можно привлечь собственный
           персонал, выбрать из фрилансеров или известных разработчиков.
         image:
-          url: /images/icon3.svg
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
