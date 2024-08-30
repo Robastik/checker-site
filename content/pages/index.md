@@ -89,7 +89,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-        tagline: апывп
+        tagline: ''
       - title: Достоверность
         subtitle: через прозрачность
         text: >
