@@ -7,7 +7,7 @@ sections:
       text: Выгрузка данных личного кабинета на маркетплейсе по API
       color: text-dark
       type: TitleBlock
-    subtitle: в облаке Гугл
+    subtitle: в облако Гугл
     text: |
       *   профессиональный уровень **надежности и гибкости**
 
