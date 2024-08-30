@@ -98,7 +98,6 @@ sections:
           основе показателя. Не требуется доверять компетентности стороннего
           сервиса, если можно полагаться на своего проверенного финансиста.
         image:
-          url: /images/icon2.svg
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
