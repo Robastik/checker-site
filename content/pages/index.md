@@ -61,6 +61,30 @@ sections:
       type: TitleBlock
     subtitle: для безграничного роста через понимание своих цифр
     items:
+      - title: Достоверность
+        subtitle: через прозрачность
+        text: >
+          Полный контроль данных дает понимание каждого рассчитанного на их
+          основе показателя. Не требуется доверять компетентности стороннего
+          сервиса, если можно полагаться на своего проверенного финансиста.
+        image:
+          altText: Featured icon two
+          elementId: ''
+          type: ImageBlock
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            textAlign: left
+            justifyContent: center
+        type: FeaturedItem
       - type: FeaturedItem
         title: Порядок
         subtitle: процессирования
@@ -90,30 +114,6 @@ sections:
             self:
               borderRadius: x-large
         tagline: ''
-      - title: Достоверность
-        subtitle: через прозрачность
-        text: >
-          Полный контроль данных дает понимание каждого рассчитанного на их
-          основе показателя. Не требуется доверять компетентности стороннего
-          сервиса, если можно полагаться на своего проверенного финансиста.
-        image:
-          altText: Featured icon two
-          elementId: ''
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-            textAlign: left
-            justifyContent: center
-        type: FeaturedItem
       - title: Независимость
         subtitle: от стороннего сервиса
         text: >
