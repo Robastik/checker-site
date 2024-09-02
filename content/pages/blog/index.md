@@ -9,7 +9,8 @@ topSections:
       color: text-dark
       type: TitleBlock
     subtitle: Возможности и применение
-    posts: []
+    posts:
+      - content/pages/blog/short-overview.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
