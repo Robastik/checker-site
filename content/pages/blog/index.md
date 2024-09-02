@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Справка
 slug: /blog
 numOfPostsPerPage: 12
 enableSearch: false
