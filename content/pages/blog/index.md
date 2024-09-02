@@ -33,8 +33,8 @@ styles:
 seo:
   metaTitle: Документация выгрузки ВБ Озон Мой склад mpStats по API
   metaDescription: >-
-    This is the blog of the demo site where we post about technology, product,
-    and design.
+    Справочная информация для выгрузки данных личных кабинетов маркетплейсов по
+    API в таблицу гугл
   socialImage: /images/img-placeholder.svg
   type: Seo
 type: PostFeedLayout
