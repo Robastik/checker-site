@@ -3,9 +3,7 @@ type: PostLayout
 title: Начало работы
 date: '2024-09-02'
 author: content/data/person1.json
-excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+excerpt: 'Шаги для начала использования Чекера: '
 featuredImage:
   type: ImageBlock
   url: /images/abstract-feature1.svg
