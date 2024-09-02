@@ -1,6 +1,6 @@
 ---
 title: 'Как все устроено: краткий обзор'
-slug: top-ten-lessons-we-learned
+slug: short-overview
 date: '2024-08-25'
 excerpt: >-
   Для начала использования сделайте копию файла гугл-таблицы, внесите в нее
