@@ -53,7 +53,7 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: lorem-ipsum
+  metaTitle: Инструкция для копирования файла гугл-таблицы
   metaDescription: lorem-ipsum
   addTitleSuffix: false
   metaTags: []
