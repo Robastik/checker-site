@@ -8,7 +8,7 @@ excerpt: >-
   авторизация скрипта. Подробнее →
 featuredImage:
   type: ImageBlock
-  url: /images/abstract-feature1.svg
+  url: /images/beginning-of-all-google-workspace.svg
   altText: Thumbnail
   elementId: ''
   styles:
