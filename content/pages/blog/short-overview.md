@@ -9,7 +9,7 @@ excerpt: >-
   Клик здесь, чтобы узнать подробнее →
 featuredImage:
   url: /images/general-and-content.svg
-  altText: Thumbnail
+  altText: Содержание справочных материалов чекера
   type: ImageBlock
   styles:
     self:
