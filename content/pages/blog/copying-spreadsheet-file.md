@@ -7,7 +7,7 @@ excerpt: Инструкция для копирования файла гугл-
 featuredImage:
   type: ImageBlock
   url: /images/duplication-spreadsheets-schema.svg
-  altText: Thumbnail
+  altText: копирование таблицы гугл
   elementId: ''
   styles:
     self:
