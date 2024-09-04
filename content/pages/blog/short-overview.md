@@ -8,7 +8,7 @@ excerpt: >-
   получите первую выгрузку данных по API. Не требуется регистрации и предоплаты.
   Клик здесь, чтобы узнать подробнее →
 featuredImage:
-  url: /images/abstract-feature2.svg
+  url: /images/general-and-content.svg
   altText: Thumbnail
   type: ImageBlock
   styles:
