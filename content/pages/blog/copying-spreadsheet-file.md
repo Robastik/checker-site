@@ -6,7 +6,7 @@ author: content/data/person1.json
 excerpt: Инструкция для копирования файла гугл-таблицы
 featuredImage:
   type: ImageBlock
-  url: /images/abstract-feature1.svg
+  url: /images/duplication-spreadsheets-schema.svg
   altText: Thumbnail
   elementId: ''
   styles:
