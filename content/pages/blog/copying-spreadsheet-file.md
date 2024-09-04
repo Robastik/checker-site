@@ -3,9 +3,7 @@ type: PostLayout
 title: Копирование гугл-таблицы
 date: '2024-09-03'
 author: content/data/person1.json
-excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+excerpt: Инструкция для копирования файла гугл-таблицы
 featuredImage:
   type: ImageBlock
   url: /images/abstract-feature1.svg
