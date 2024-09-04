@@ -54,7 +54,7 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: Инструкция для копирования файла гугл-таблицы
-  metaDescription: lorem-ipsum
+  metaDescription: Инструкция для копирования файла гугл-таблицы
   addTitleSuffix: false
   metaTags: []
 colors: bg-light-fg-dark
