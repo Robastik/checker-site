@@ -9,7 +9,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/beginning-of-all-google-workspace.svg
-  altText: Thumbnail
+  altText: Содержание справочных материалов чекера
   elementId: ''
   styles:
     self:
