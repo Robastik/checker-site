@@ -49,7 +49,10 @@ author: content/data/person1.json
 
 Дальше переходите к [**Началу работы.**](/beginning_of_use)
 
-\<div style="text-align: center"># Оглавление### справочных материалов\</div>
+\<div style="text-align: center">
+# Оглавление
+### справочных материалов
+\</div>
 
 [Начало работы](/beginning_of_use)
 предварительная настройка и подготовительные действия
