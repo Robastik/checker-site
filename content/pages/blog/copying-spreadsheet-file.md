@@ -1,7 +1,7 @@
 ---
 type: PostLayout
 title: Копирование гугл-таблицы
-date: '2024-09-04'
+date: ''
 author: content/data/person1.json
 excerpt: >-
   Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
