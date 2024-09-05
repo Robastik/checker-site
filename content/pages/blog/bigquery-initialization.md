@@ -54,7 +54,9 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: Как получить id проекта BigQuery для чекера
-  metaDescription: lorem-ipsum
+  metaDescription: >-
+    Инструкция по инициализации BigQuery для хранения данных Вайлдберриз Озон
+    Мой склад mpStats
   addTitleSuffix: false
   metaTags: []
 colors: bg-light-fg-dark
