@@ -7,7 +7,7 @@ excerpt: Инструкция по получению id проекта BigQuery
 featuredImage:
   type: ImageBlock
   url: /images/big-query-initialization.svg
-  altText: Thumbnail
+  altText: id проекта BigQuery в чекере
   elementId: ''
   styles:
     self:
