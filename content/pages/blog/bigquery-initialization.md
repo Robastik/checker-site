@@ -6,7 +6,7 @@ author: content/data/person1.json
 excerpt: Инструкция по получению id проекта BigQuery для вставки на лист Ключи API →
 featuredImage:
   type: ImageBlock
-  url: /images/abstract-feature1.svg
+  url: /images/big-query-initialization.svg
   altText: Thumbnail
   elementId: ''
   styles:
