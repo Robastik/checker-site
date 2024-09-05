@@ -53,7 +53,7 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: lorem-ipsum
+  metaTitle: Как получить id проекта BigQuery для чекера
   metaDescription: lorem-ipsum
   addTitleSuffix: false
   metaTags: []
