@@ -3,7 +3,9 @@ type: PostLayout
 title: Как получить id проекта BigQuery
 date: '2024-09-04'
 author: content/data/person1.json
-excerpt: BigQuery - это бесплатно →
+excerpt: >-
+  Инструкция по получению id проекта BigQuery для вставки на лист чекера Ключи
+  API →
 featuredImage:
   type: ImageBlock
   url: /images/big-query-initialization.svg
