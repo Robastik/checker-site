@@ -64,8 +64,6 @@ styles:
   self:
     flexDirection: col
 ---
-### Бесплатный и платный тарифы BigQuery
-
 Начальная страница BigQuery находится по адресу [cloud.google.com/bigquery](https://cloud.google.com/bigquery/). На этой странице находится такой текст об условиях бесплатного использования BigQuery:![](/images/BQ-free-start-300-1.PNG)Недалекие авторы часто интерпретируют этот текст как необходимость как минимум указывать данные карты, а то и оплачивать использование BigQuery. Это совсем не так!
 
 Перейдем в консоль BigQuery по адресу [console.cloud.google.com/bigquery](https://console.cloud.google.com/bigquery).
