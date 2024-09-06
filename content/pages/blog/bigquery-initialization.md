@@ -61,6 +61,7 @@ seo:
     Мой склад mpStats
   addTitleSuffix: false
   metaTags: []
+  socialImage: /images/BigQuery-integrations-cover.png
 colors: bg-light-fg-dark
 styles:
   self:
