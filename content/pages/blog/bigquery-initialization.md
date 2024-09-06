@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: Как получить id проекта BigQuery
+title: Бесплатный и платный тарифы BigQuery
 date: '2024-09-04'
 author: content/data/person1.json
 excerpt: Инструкция по получению id проекта BigQuery для вставки на лист Ключи API →
