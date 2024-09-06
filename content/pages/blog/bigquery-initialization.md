@@ -8,7 +8,7 @@ excerpt: >-
   API →
 featuredImage:
   type: ImageBlock
-  url: /images/big-query-initialization.svg
+  url: /images/BigQuery-integrations-cover.png
   altText: BigQuery бесплатно
   elementId: ''
   styles:
