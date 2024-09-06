@@ -48,7 +48,7 @@ bottomSections:
     styles:
       self:
         justifyContent: center
-slug: bigquery-initialization
+slug: bigquery-sandbox
 isFeatured: false
 isDraft: false
 seo:
