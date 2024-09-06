@@ -1,7 +1,7 @@
 ---
 type: PostLayout
 title: Бесплатный и платный тарифы BigQuery
-date: ''
+date: '2024-09-05'
 author: content/data/person1.json
 excerpt: Инструкция по получению id проекта BigQuery для вставки на лист Ключи API →
 featuredImage:
