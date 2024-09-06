@@ -1,7 +1,7 @@
 ---
 type: PostLayout
 title: Как получить id проекта BigQuery
-date: '2024-09-05'
+date: ''
 author: content/data/person1.json
 excerpt: BigQuery - это бесплатно →
 featuredImage:
