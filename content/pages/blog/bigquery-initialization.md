@@ -6,7 +6,7 @@ author: content/data/person1.json
 excerpt: BigQuery - это бесплатно →
 featuredImage:
   type: ImageBlock
-  url: /images/BigQuery-integrations-cover.png
+  url: /images/big-query-initialization.svg
   altText: id проекта BigQuery в чекере
   elementId: ''
   styles:
