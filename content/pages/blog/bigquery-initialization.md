@@ -7,7 +7,7 @@ excerpt: BigQuery - это бесплатно →
 featuredImage:
   type: ImageBlock
   url: /images/big-query-initialization.svg
-  altText: id проекта BigQuery в чекере
+  altText: BigQuery бесплатно
   elementId: ''
   styles:
     self:
