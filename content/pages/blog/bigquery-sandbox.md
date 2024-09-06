@@ -59,6 +59,7 @@ seo:
     Мой склад mpStats
   addTitleSuffix: false
   metaTags: []
+  socialImage: /images/big-query-initialization.svg
 colors: bg-light-fg-dark
 styles:
   self:
