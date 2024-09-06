@@ -9,7 +9,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/BigQuery-integrations-cover.png
-  altText: BigQuery бесплатно
+  altText: id проекта BigQuery
   elementId: ''
   styles:
     self:
