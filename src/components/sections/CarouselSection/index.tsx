@@ -45,7 +45,7 @@ export default function CarouselSection(props) {
                             'sm:text-2xl',
                             styles?.subtitle ? mapStyles(styles?.subtitle) : undefined,
                             {
-                                'mt-4': badge?.label || title?.text
+                                'mt-4': badge?.label || (title?.text)
                             }
                         )}
                         {...(enableAnnotations && { 'data-sb-field-path': '.subtitle' })}
@@ -57,8 +57,8 @@ export default function CarouselSection(props) {
                     <CarouselVariants
                         variant={variant}
                         items={items}
-                        hasTopMargin={!!(badge?.label || title?.text || subtitle)}
-                        hasSectionTitle={!!title?.text}
+                        hasTopMargin={!!(badge?.label || (title?.text) || subtitle)}
+                        hasSectionTitle={!!(title?.text)}
                         hasAnnotations={enableAnnotations}
                     />
                 )}

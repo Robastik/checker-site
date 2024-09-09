@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Справка
 slug: /blog
 numOfPostsPerPage: 12
 enableSearch: false
@@ -10,7 +10,7 @@ topSections:
       type: TitleBlock
     subtitle: Возможности и применение
     posts:
-      - content/pages/blog/top-ten-lessons-we-learned.md
+      - content/pages/blog/short-overview.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
@@ -31,10 +31,10 @@ styles:
   title:
     textAlign: center
 seo:
-  metaTitle: Blog - Demo site
+  metaTitle: Документация выгрузки ВБ Озон Мой склад mpStats по API
   metaDescription: >-
-    This is the blog of the demo site where we post about technology, product,
-    and design.
+    Справочная информация для выгрузки данных личных кабинетов маркетплейсов по
+    API в таблицу гугл
   socialImage: /images/img-placeholder.svg
   type: Seo
 type: PostFeedLayout
