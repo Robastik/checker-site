@@ -4,7 +4,7 @@ export const CarouselSection: Model = {
     type: 'object',
     name: 'CarouselSection',
     label: 'Carousel',
-    labelField: 'title.Text',
+    labelField: 'title.title',
     fields: [
         {
             type: 'model',
