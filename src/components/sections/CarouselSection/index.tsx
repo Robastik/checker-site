@@ -57,8 +57,8 @@ export default function CarouselSection(props) {
                     <CarouselVariants
                         variant={variant}
                         items={items}
-                        hasTopMargin={!!(badge?.label || title?.text || subtitle)}
-                        hasSectionTitle={!!title?.text}
+                        hasTopMargin={!!(badge?.label || (title?.text) || subtitle)}
+                        hasSectionTitle={!!(title?.text)}
                         hasAnnotations={enableAnnotations}
                     />
                 )}
