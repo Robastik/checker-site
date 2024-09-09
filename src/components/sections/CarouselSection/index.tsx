@@ -45,7 +45,7 @@ export default function CarouselSection(props) {
                             'sm:text-2xl',
                             styles?.subtitle ? mapStyles(styles?.subtitle) : undefined,
                             {
-                                'mt-4': badge?.label || title?.text
+                                'mt-4': badge?.label || (title?.text)
                             }
                         )}
                         {...(enableAnnotations && { 'data-sb-field-path': '.subtitle' })}
