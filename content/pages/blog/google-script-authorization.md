@@ -3,7 +3,10 @@ type: PostLayout
 title: Авторизация гугл-скрипта
 date: '2024-09-10'
 author: content/data/person1.json
-excerpt: В це →
+excerpt: >-
+  Использование гугл-скрипта начинается с его авторизации. Процедура авторизации
+  включает информирование пользователя об авторе скрипта и предоставление
+  скрипту разрешений на использование гугл-ресурсов пользователя →
 featuredImage:
   type: ImageBlock
   url: /images/beginning-of-all-google-workspace.svg
