@@ -3,7 +3,7 @@ type: PostLayout
 title: Копирование гугл-таблицы
 date: '2024-09-03'
 author: content/data/person1.json
-excerpt: Инструкция для копирования файла гугл-таблицы
+excerpt: Инструкция для копирования файла гугл-таблицы →
 featuredImage:
   type: ImageBlock
   url: /images/duplication-spreadsheets-schema.svg

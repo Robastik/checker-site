@@ -16,9 +16,9 @@ featuredImage:
       borderRadius: medium
 isFeatured: true
 seo:
-  metaTitle: The Top Ten Lessons We’ve Learned Since Our Initial Launch
-  metaDescription: You can add the excerpt and main keywords of your blog post here.
-  socialImage: /images/abstract-feature2.svg
+  metaTitle: Содержание справочной документации
+  metaDescription: Оглавление документации
+  socialImage: /images/beginning-of-all-google-workspace.svg
   type: Seo
 colors: bg-light-fg-dark
 styles:
@@ -43,16 +43,19 @@ author: content/data/person1.json
 
 По всем вопросам поможет [**техподдержка**](https://t.me/techsupport_4eker) Чекера в Telegram.
 
-**Подпишитесь** на [новости Чекера в tg](https://t.me/official_4eker) для получения обновлений, новых функций, аналитических таблиц, приемов работы, финансовых расчетов и их разборов. 
+**Подпишитесь** на [новости Чекера в tg](https://t.me/official_4eker) для получения обновлений, новых функций, аналитических таблиц, приемов работы, финансовых расчетов и их разборов.
 
 **Присоединяйтесь** к [сообществу](https://t.me/community_4eker) Чекера для обмена опытом по работе с цифрами.
 
-Дальше переходите к [**Началу работы.**](/beginning_of_use)
+Дальше переходите к [**Началу работы.**](/blog/beginning_of_use)
 
 ### Оглавление
 
 #### справочных материалов
 
-[Начало работы](/beginning_of_use) П*редварительная настройка и подготовительные действия*
+[Начало работы](/blog/beginning_of_use) *Предварительная настройка и подготовительные действия*
 
    [*Скопировать гугл-таблицу*](/blog/copying-spreadsheet-file/) *Получение собственного экземпляра чекера*
+
+   [id проекта Big Query](/blog/bigquery-initialization/) *Получение id проекта BigQuery для вставки на лист чекера Ключи API*
+
