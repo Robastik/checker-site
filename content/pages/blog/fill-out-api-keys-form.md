@@ -54,7 +54,7 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: Заполняем чекер ключами API
-  metaDescription: lorem-ipsum
+  metaDescription: 'Как устроена форма '
   addTitleSuffix: false
   metaTags: []
 colors: bg-light-fg-dark
