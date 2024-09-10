@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Выгрузка по API данных ЛК маркетплейсов
+      text: Выгрузка по API ЛК маркетплейсов
       color: text-dark
       type: TitleBlock
     subtitle: в облако Гугл
