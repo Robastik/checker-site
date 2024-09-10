@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: Инструкция по заполнению листа Ключи API
+title: Инструкция по заполнению листа чекера Ключи API
 date: '2024-09-09'
 author: content/data/person1.json
 excerpt: >-
