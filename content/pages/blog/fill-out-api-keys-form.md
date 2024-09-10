@@ -54,7 +54,7 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: Заполняем чекер ключами API
-  metaDescription: 'Как устроена форма '
+  metaDescription: Как устроена форма чекера с ключами API
   addTitleSuffix: false
   metaTags: []
 colors: bg-light-fg-dark
