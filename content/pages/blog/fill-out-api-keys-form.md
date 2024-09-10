@@ -3,9 +3,7 @@ type: PostLayout
 title: Инструкция по заполнению листа чекера Ключи API
 date: '2024-09-09'
 author: content/data/person1.json
-excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+excerpt: Подробное объяснение порядка заполнения ключей API для использования чекера →
 featuredImage:
   type: ImageBlock
   url: /images/abstract-feature1.svg
