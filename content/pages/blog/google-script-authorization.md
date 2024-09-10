@@ -10,7 +10,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/google-script-authorization.svg
-  altText: Содержание справочных материалов чекера
+  altText: Авторизация гугл-скрипта
   elementId: ''
   styles:
     self:
