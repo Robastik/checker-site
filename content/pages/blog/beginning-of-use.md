@@ -4,8 +4,8 @@ title: Начало работы
 date: '2024-09-02'
 author: content/data/person1.json
 excerpt: >-
-  Шаги для начала использования Чекера: ключи API, настройка гугл-аккаунта и
-  авторизация скрипта. Подробнее →
+  Чек-лист по старту с Чекером: ключи API, настройка гугл-аккаунта и авторизация
+  скрипта. Подробнее →
 featuredImage:
   type: ImageBlock
   url: /images/beginning-of-all-google-workspace.svg
