@@ -62,10 +62,25 @@ styles:
   self:
     flexDirection: col
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
+Для выгрузки ЛК по API используются ключи API. Ссылки для получения ключей API приведены в разделе [Начало работы](/blog/beginning-of-use/) на 3-м шаге. Также потребуется id проекта BigQuery, о котором подробно [здесь](/blog/bigquery-initialization/).
 
-> Vestibulum ullamcorper risus auctor eleifend consequat.
+Полученные ключи API заполняются на листе Ключи API чекера:![](/images/checker-lists-api-keys.PNG)
 
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+Лист **Ключи API** разделен на разделы, каждый раздел предназначен для своего маркетплейса и сервиса. Желтым выделена строка с назначением раздела:![](/images/api-keys-sheet-parts.PNG)
 
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+На рисунке синим обозначен раздел Вайлдберриз, розовым - Озон, второй розовый блок - реклама Озон, фиолетовый - Мой склад и зеленый - MP Stats.
+
+
+
+Каждый раздел состоит из двух частей:
+
+1.  id проекта BigQuery
+
+2.  ключи API
+
+Для выгрузки каждого маркетплейса и сервиса можно использовать разные проекты BigQuery независимо друг от друга. В приведенном на рисунке примере все данные выгружаются в один проект.
+
+
+
+
+
