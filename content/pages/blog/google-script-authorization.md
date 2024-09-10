@@ -60,6 +60,7 @@ seo:
   metaDescription: lorem-ipsum
   addTitleSuffix: false
   metaTags: []
+  socialImage: /images/google-script-authorization.svg
 colors: bg-light-fg-dark
 styles:
   self:
