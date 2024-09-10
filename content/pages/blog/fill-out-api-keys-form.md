@@ -6,7 +6,7 @@ author: content/data/person1.json
 excerpt: Подробное объяснение порядка заполнения ключей API для использования чекера →
 featuredImage:
   type: ImageBlock
-  url: /images/abstract-feature1.svg
+  url: /images/google-sheets-schema-cells.svg
   altText: Thumbnail
   elementId: ''
   styles:
