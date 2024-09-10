@@ -9,7 +9,7 @@ excerpt: >-
   скрипту разрешений на использование гугл-ресурсов пользователя →
 featuredImage:
   type: ImageBlock
-  url: /images/beginning-of-all-google-workspace.svg
+  url: /images/google-script-authorization.svg
   altText: Содержание справочных материалов чекера
   elementId: ''
   styles:
