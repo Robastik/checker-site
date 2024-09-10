@@ -57,7 +57,9 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: Авторизация гугл-скрипта
-  metaDescription: lorem-ipsum
+  metaDescription: >-
+    Разрешение на запуск скрипта и предоставление скрипту разрешений на
+    использование ресурсов
   addTitleSuffix: false
   metaTags: []
   socialImage: /images/google-script-authorization.svg
