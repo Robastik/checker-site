@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: Начало работы
+title: Авторизация гугл-скрипта
 date: '2024-09-02'
 author: content/data/person1.json
 excerpt: >-
