@@ -53,7 +53,7 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: lorem-ipsum
+  metaTitle: Заполняем чекер ключами API
   metaDescription: lorem-ipsum
   addTitleSuffix: false
   metaTags: []
