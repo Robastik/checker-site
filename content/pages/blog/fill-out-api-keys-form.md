@@ -7,7 +7,7 @@ excerpt: Подробное объяснение порядка заполнен
 featuredImage:
   type: ImageBlock
   url: /images/google-sheets-schema-cells.svg
-  altText: Thumbnail
+  altText: Ключи API чекера
   elementId: ''
   styles:
     self:
