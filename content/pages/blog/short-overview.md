@@ -16,7 +16,7 @@ featuredImage:
       borderRadius: medium
 isFeatured: true
 seo:
-  metaTitle: The Top Ten Lessons We’ve Learned Since Our Initial Launch
+  metaTitle: Содержание справочной документации
   metaDescription: You can add the excerpt and main keywords of your blog post here.
   socialImage: /images/beginning-of-all-google-workspace.svg
   type: Seo
