@@ -3,9 +3,7 @@ type: PostLayout
 title: Авторизация гугл-скрипта
 date: '2024-09-10'
 author: content/data/person1.json
-excerpt: >-
-  Чек-лист по старту с Чекером: ключи API, настройка гугл-аккаунта и авторизация
-  скрипта. Подробнее →
+excerpt: В це →
 featuredImage:
   type: ImageBlock
   url: /images/beginning-of-all-google-workspace.svg
