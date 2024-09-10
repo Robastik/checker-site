@@ -17,7 +17,7 @@ featuredImage:
 isFeatured: true
 seo:
   metaTitle: Содержание справочной документации
-  metaDescription: You can add the excerpt and main keywords of your blog post here.
+  metaDescription: Оглавление документации
   socialImage: /images/beginning-of-all-google-workspace.svg
   type: Seo
 colors: bg-light-fg-dark
