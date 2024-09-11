@@ -13,7 +13,7 @@ sections:
     actions:
       - label: Начать
         altText: Начало работы с чекером
-        url: /
+        url: /blog/beginning-of-use/
         showIcon: false
         icon: arrowRight
         iconPosition: right
