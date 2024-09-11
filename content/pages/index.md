@@ -12,7 +12,7 @@ sections:
       для любого масштаба бизнеса
     actions:
       - label: Начать
-        altText: ''
+        altText: Начало работы с чекером
         url: /
         showIcon: false
         icon: arrowRight
