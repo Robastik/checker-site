@@ -741,7 +741,7 @@ sections:
     type: GenericSection
 seo:
   metaTitle: Чекер
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: Выгрузка по API ЛК селлера на маркетплейсах
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
