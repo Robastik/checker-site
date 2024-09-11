@@ -31,7 +31,7 @@ sections:
         type: Link
     media:
       url: /images/main-page-cover.svg
-      altText: Unblock your team boost your time to production preview
+      altText: Выгрузка по API личного кабинета селлера в облако гугл
       elementId: ''
       type: ImageBlock
     badge:
