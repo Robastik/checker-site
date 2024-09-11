@@ -80,8 +80,24 @@ styles:
 
 Для авторизации гугл-скрипта откройте чекер (вашу копию) и перейдие на лист **Справка**:![](/images/script-authorization-howto-badge.PNG)
 
-Прокрутите текст вниз до раздела **Активация чекера** и нажмите кнопку **Активация**:![](/images/script-authorization-howto-list.PNG)
+Прокрутите текст вниз до раздела **Активация чекера** и нажмите кнопку **Активация**:
 
-В открывшемся окне нажмите кнопку **ОК**:![](/images/script-authorization-window-info-1-long.PNG)
+![](/images/script-authorization-howto-list.PNG)
 
-Откроется следующее окно, в котором нужно кликнуть на своем профиле:![](/images/script-authorization-select-profile-2.PNG)
+В открывшемся окне нажмите кнопку **ОК**:
+
+![](/images/script-authorization-window-info-1-long.PNG)
+
+Откроется следующее окно, в котором нужно кликнуть на своем профиле:
+
+![](/images/script-authorization-select-profile-2.PNG)
+
+В следующем окне кликнуть на **Дополнительные настройки**:
+
+![](/images/script-authorization-google-alert.png)
+
+Далее кликнуть на **Перейти на страницу "4eker" (небезопасно)**:
+
+![](/images/script-authorization-google-alert-2.png)Затем нажать кнопку **Разрешить**:
+
+![](/images/script-authorization-google-allow-access.png)
