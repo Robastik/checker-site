@@ -742,7 +742,7 @@ sections:
 seo:
   metaTitle: Чекер
   metaDescription: Выгрузка по API ЛК селлера на маркетплейсах
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/main-page-cover.svg
   type: Seo
 type: PageLayout
 ---
