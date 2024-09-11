@@ -82,4 +82,6 @@ styles:
 
 Прокрутите текст вниз до раздела **Активация чекера** и нажмите кнопку **Активация**:![](/images/script-authorization-howto-list.PNG)
 
-В открывшемся окне нажмите кнопку **ОК**:![](/images/script-authorization-window-info-1.PNG)
+В открывшемся окне нажмите кнопку **ОК**:![](/images/script-authorization-window-info-1-long.PNG)
+
+Откроется следующее окно, в котором нужно кликнуть на своем профиле:![](/images/script-authorization-select-profile-2.PNG)
