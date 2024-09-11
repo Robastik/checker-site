@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Выгрузка по API ЛК селлера ВБ и Озон
+      text: Выгрузка по API ЛК селлера Вайлдберриз и Озон
       color: text-dark
       type: TitleBlock
     subtitle: в облако Гугл
