@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Выгрузка по API ЛК маркетплейсов
+      text: Выгрузка по API ЛК селлера Вайлдберриз и Озон
       color: text-dark
       type: TitleBlock
     subtitle: в облако Гугл
@@ -12,8 +12,8 @@ sections:
       для любого масштаба бизнеса
     actions:
       - label: Начать
-        altText: ''
-        url: /
+        altText: Начало работы с чекером
+        url: /blog/beginning-of-use/
         showIcon: false
         icon: arrowRight
         iconPosition: right
@@ -30,8 +30,8 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/main-hero.svg
-      altText: Unblock your team boost your time to production preview
+      url: /images/main-page-cover.svg
+      altText: Выгрузка по API личного кабинета селлера в облако гугл
       elementId: ''
       type: ImageBlock
     badge:
@@ -740,9 +740,9 @@ sections:
     colors: bg-light-fg-dark
     type: GenericSection
 seo:
-  metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create.
-  socialImage: /images/main-hero.jpg
+  metaTitle: Чекер
+  metaDescription: Выгрузка по API ЛК селлера на маркетплейсах
+  socialImage: /images/main-page-cover.svg
   type: Seo
 type: PageLayout
 ---
