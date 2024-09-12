@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: Первая ручная выгрузка по API
+title: Первая выгрузка ЛК по API
 date: '2024-09-04'
 author: content/data/person1.json
 excerpt: >-
