@@ -56,7 +56,7 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: Чекер→Начало работы
-  metaDescription: lorem-ipsum
+  metaDescription: Чек-лист для запуска чекера
   addTitleSuffix: false
   metaTags: []
 colors: bg-light-fg-dark
