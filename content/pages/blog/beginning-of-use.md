@@ -59,6 +59,7 @@ seo:
   metaDescription: Чек-лист для запуска чекера
   addTitleSuffix: false
   metaTags: []
+  socialImage: /images/beginning-of-all-google-workspace.svg
 colors: bg-light-fg-dark
 styles:
   self:
