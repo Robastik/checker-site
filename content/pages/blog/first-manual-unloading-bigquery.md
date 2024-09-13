@@ -9,7 +9,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/first-unload-api.svg
-  altText: id проекта BigQuery
+  altText: Тестовая выгрузка ЛК по API
   elementId: ''
   styles:
     self:
