@@ -102,4 +102,6 @@ styles:
 
 Скопируйте ID нужного проекта в чекер на лист **Ключи API** в поле **проект BigQuery**.
 
-Дальше → [Бесплатный и платный тарифы BigQuery](/blog/bigquery-sandbox/). 
+##### Дальше
+
+[Бесплатный и платный тарифы BigQuery](/blog/bigquery-sandbox/)
