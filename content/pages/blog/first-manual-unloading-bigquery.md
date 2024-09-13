@@ -53,7 +53,7 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: Как получить id проекта BigQuery для чекера
+  metaTitle: Тест выгрузки ЛК по API
   metaDescription: >-
     Инструкция по инициализации BigQuery для хранения данных Вайлдберриз Озон
     Мой склад mpStats
