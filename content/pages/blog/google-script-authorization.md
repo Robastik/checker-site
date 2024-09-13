@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: Авторизация гугл-скрипта
+title: Активация чекера
 date: '2024-09-10'
 author: content/data/person1.json
 excerpt: >-
@@ -34,7 +34,7 @@ bottomSections:
   - type: RecentPostsSection
     title:
       type: TitleBlock
-      text: Recent posts
+      text: Справочные материалы
       color: text-dark
       styles:
         self:
@@ -122,3 +122,6 @@ styles:
 
 После получения сообщений **Параметры применены** и **Чекер активирован** чекер полностью готов к работе и можно переходить к первой ручной выгрузке.
 
+##### Дальше
+
+[Тест выгрузки ЛК по API](/blog/first-manual-unloading-bigquery/)

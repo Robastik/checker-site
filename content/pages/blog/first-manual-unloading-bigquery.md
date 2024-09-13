@@ -53,10 +53,8 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: Как получить id проекта BigQuery для чекера
-  metaDescription: >-
-    Инструкция по инициализации BigQuery для хранения данных Вайлдберриз Озон
-    Мой склад mpStats
+  metaTitle: Тест выгрузки ЛК по API
+  metaDescription: Проверка работоспособности системы на первой тестовой выгрузке ЛК по API
   addTitleSuffix: false
   socialImage: /images/BigQuery-integrations-cover.png
   metaTags: []
