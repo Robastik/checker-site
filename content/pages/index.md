@@ -201,6 +201,10 @@ sections:
       subtitle:
         textAlign: center
     type: ImageGallerySection
+    badge:
+      type: Badge
+      label: Сделай с данными все что хочешь
+      color: text-primary
   - posts:
       - content/pages/blog/case-study-1.md
       - content/pages/blog/case-study-2.md
