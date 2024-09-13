@@ -3,9 +3,7 @@ type: PostLayout
 title: Первая выгрузка ЛК по API
 date: '2024-09-04'
 author: content/data/person1.json
-excerpt: >-
-  Инструкция по получению id проекта BigQuery для вставки на лист чекера Ключи
-  API →
+excerpt: Делаем первую тестовую выгрузку ЛК по API →
 featuredImage:
   type: ImageBlock
   url: /images/first-unload-api.svg
