@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: Авторизация гугл-скрипта
+title: Активация чекера
 date: '2024-09-10'
 author: content/data/person1.json
 excerpt: >-
