@@ -165,7 +165,7 @@ sections:
         textAlign: center
   - subtitle: Магия экосистемы Гугл
     images:
-      - url: /images/empathy-logo.svg
+      - url: /images/mail.png
         altText: Empathy logo
         type: ImageBlock
       - url: /images/wellster-logo.svg
