@@ -54,9 +54,7 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: Тест выгрузки ЛК по API
-  metaDescription: >-
-    Инструкция по инициализации BigQuery для хранения данных Вайлдберриз Озон
-    Мой склад mpStats
+  metaDescription: Проверка работоспособности системы на первой тестовой выгрузке ЛК по API
   addTitleSuffix: false
   socialImage: /images/BigQuery-integrations-cover.png
   metaTags: []
