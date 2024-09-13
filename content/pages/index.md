@@ -203,7 +203,7 @@ sections:
     type: ImageGallerySection
     badge:
       type: Badge
-      label: Сделай с данными все что хочешь
+      label: делай с данными все что хочешь
       color: text-primary
   - posts:
       - content/pages/blog/case-study-1.md
