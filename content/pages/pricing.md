@@ -20,7 +20,6 @@ sections:
           - Единственный кабинет на маркетплейсах
           - Поддержка в telegram
           - Месяц бесплатно
-          - Поддержка в telegram
         image:
           url: /images/just-opened-start-tarif.jpeg
           altText: Pricing plan 1
