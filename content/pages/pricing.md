@@ -19,7 +19,7 @@ sections:
         features:
           - Единственный кабинет на маркетплейсах
           - '   Выгрузка Мой склад'
-          - Выгрузка MP Stats
+          - Выгрузка mpstats
           - Feature four
         image:
           url: /images/abstract-feature1.svg
