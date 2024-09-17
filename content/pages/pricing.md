@@ -63,7 +63,7 @@ sections:
         type: PricingPlan
       - title: Интеграция
         price: договорная
-        details: в месяц
+        details: свяжитесь с нами
         description: >
           Приоритетная поддержка для эффективного достижения целей IT-команды
           селлера
