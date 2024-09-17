@@ -13,7 +13,7 @@ sections:
     plans:
       - title: Старт
         price: '3000'
-        details: No credit card required
+        details: в месяц
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
