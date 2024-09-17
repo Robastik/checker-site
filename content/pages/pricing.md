@@ -44,7 +44,7 @@ sections:
         features:
           - Любое количество кабинетов
           - Выгрузка Мой склад
-          - Feature three
+          - Выгрузка mpstats
           - Feature four
         image:
           url: /images/abstract-feature2.svg
