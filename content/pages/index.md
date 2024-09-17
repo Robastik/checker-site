@@ -83,7 +83,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - type: FeaturedItem
-        title: Порядок
+        title: Доступность
         subtitle: процессирования
         text: >
           Простая понятная структура данных с предоставлением доступа в облаке
