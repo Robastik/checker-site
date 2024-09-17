@@ -62,7 +62,7 @@ sections:
             borderRadius: large
         type: PricingPlan
       - title: Интеграция
-        price: '15000'
+        price: договорная
         details: в месяц
         description: >
           Приоритетная поддержка для эффективного достижения целей IT-команды
