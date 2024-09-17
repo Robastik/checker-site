@@ -69,7 +69,7 @@ sections:
           селлера
         features:
           - Любое количество кабинетов
-          - Feature two
+          - Выгрузка Мой склад
           - Feature three
           - Feature four
           - Feature five
