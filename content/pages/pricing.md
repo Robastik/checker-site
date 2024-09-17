@@ -42,7 +42,7 @@ sections:
         description: |
           Растущим селлерам с несколькими ЛК.
         features:
-          - Feature one
+          - Любое количество кабинетов
           - Feature two
           - Feature three
           - Feature four
