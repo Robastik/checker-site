@@ -72,7 +72,7 @@ sections:
           - Выгрузка Мой склад
           - Выгрузка mpstats
           - Тесная коммуникация
-          - Feature five
+          - Консультирование
         image:
           url: /images/abstract-feature3.svg
           altText: Pricing plan 3
