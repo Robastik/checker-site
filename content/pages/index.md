@@ -57,7 +57,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: для безграничного роста через понимание своих цифр
+    subtitle: решения на единой платформе Гугл
     items:
       - title: Надежность
         subtitle: облачной инфраструктуры
