@@ -22,7 +22,7 @@ sections:
           - Выгрузка mpstats
           - Поддержка в telegram
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/just-opened-start-tarif.jpeg
           altText: Pricing plan 1
           type: ImageBlock
         actions: []
