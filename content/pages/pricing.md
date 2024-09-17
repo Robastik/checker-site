@@ -68,7 +68,7 @@ sections:
           Приоритетная поддержка для эффективного достижения целей IT-команды
           селлера
         features:
-          - Feature one
+          - Любое количество кабинетов
           - Feature two
           - Feature three
           - Feature four
