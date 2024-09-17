@@ -47,7 +47,7 @@ sections:
           - Выгрузка mpstats
           - Поддержка в telegram
         image:
-          url: /images/abstract-feature2.svg
+          url: /images/pro-seller-tarif.jpeg
           altText: Pricing plan 2
           type: ImageBlock
         actions: []
