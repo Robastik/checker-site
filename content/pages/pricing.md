@@ -20,7 +20,7 @@ sections:
           - Единственный кабинет на маркетплейсах
           - '   Выгрузка Мой склад'
           - Выгрузка mpstats
-          - Feature four
+          - Поддержка в telegram
         image:
           url: /images/abstract-feature1.svg
           altText: Pricing plan 1
