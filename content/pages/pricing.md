@@ -45,7 +45,7 @@ sections:
           - Любое количество кабинетов
           - Выгрузка Мой склад
           - Выгрузка mpstats
-          - Feature four
+          - Поддержка в telegram
         image:
           url: /images/abstract-feature2.svg
           altText: Pricing plan 2
