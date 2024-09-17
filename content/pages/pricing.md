@@ -70,7 +70,7 @@ sections:
         features:
           - Любое количество кабинетов
           - Выгрузка Мой склад
-          - Feature three
+          - Выгрузка mpstats
           - Feature four
           - Feature five
         image:
