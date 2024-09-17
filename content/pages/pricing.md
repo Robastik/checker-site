@@ -70,9 +70,9 @@ sections:
       - title: Интеграция
         price: '15000'
         details: в месяц
-        description: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam.
+        description: >
+          Приоритетная поддержка для эффективного достижения целей IT-команды
+          селлера
         features:
           - Feature one
           - Feature two
