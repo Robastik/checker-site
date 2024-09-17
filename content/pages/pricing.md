@@ -43,7 +43,7 @@ sections:
           Растущим селлерам с несколькими ЛК.
         features:
           - Любое количество кабинетов
-          - Feature two
+          - Выгрузка Мой склад
           - Feature three
           - Feature four
         image:
