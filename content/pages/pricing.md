@@ -77,7 +77,7 @@ sections:
         type: PricingPlan
       - title: Интеграция
         price: '15000'
-        details: per month
+        details: в месяц
         description: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam.
