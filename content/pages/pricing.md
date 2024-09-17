@@ -3,7 +3,7 @@ title: Цены
 slug: pricing
 sections:
   - title:
-      text: Flexible Pricing
+      text: Цены
       color: text-dark
       styles:
         self:
