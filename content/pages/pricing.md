@@ -74,7 +74,7 @@ sections:
           - Тесная коммуникация
           - Консультирование
         image:
-          url: /images/abstract-feature3.svg
+          url: /images/integration-tarif.jpeg
           altText: Pricing plan 3
           type: ImageBlock
         actions: []
