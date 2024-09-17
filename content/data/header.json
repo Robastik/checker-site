@@ -21,7 +21,7 @@
             "type": "Link"
         },
         {
-            "label": "Блог",
+            "label": "Техподдержка",
             "altText": "Новости",
             "url": "/blog",
             "icon": "arrowRight",
