@@ -22,7 +22,7 @@
         },
         {
             "label": "Техподдержка",
-            "altText": "Новости",
+            "altText": "Документация",
             "url": "/blog",
             "icon": "arrowRight",
             "iconPosition": "right",
