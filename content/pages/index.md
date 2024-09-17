@@ -111,7 +111,7 @@ sections:
             self:
               borderRadius: x-large
         tagline: ''
-      - title: Независимость
+      - title: AI-ready
         subtitle: от стороннего сервиса
         text: >
           Полное владение функционалом позволяет в любой момент добавить нужный
