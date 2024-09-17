@@ -82,7 +82,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - type: FeaturedItem
-        title: Доступность
+        title: Контроль
         subtitle: 24/7
         text: >
           Универсальная доступность данных предполагает совместную работу
