@@ -17,7 +17,7 @@ sections:
         description: |
           Начинающим селлерам с единственным кабинетом Вайлдберриз или Озон.
         features:
-          - Feature one
+          - Единственный кабинет на маркетплейсах
           - Feature two
           - Feature three
           - Feature four
