@@ -18,7 +18,7 @@ sections:
           Начинающим селлерам с одним ЛК Вайлдберриз или Озон.
         features:
           - Единственный кабинет на маркетплейсах
-          - Feature two
+          - Мой склад
           - Feature three
           - Feature four
         image:
