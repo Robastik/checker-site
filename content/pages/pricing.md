@@ -14,9 +14,8 @@ sections:
       - title: Старт
         price: '3000'
         details: в месяц
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: |
+          Начинающим селлерам с единственным кабинетом Вайлдберриз или Озон.
         features:
           - Feature one
           - Feature two
