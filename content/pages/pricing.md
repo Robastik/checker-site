@@ -45,7 +45,7 @@ sections:
         type: PricingPlan
       - title: Профи
         price: '5000'
-        details: per month
+        details: в месяц
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
