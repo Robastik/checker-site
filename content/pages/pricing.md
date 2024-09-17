@@ -39,9 +39,8 @@ sections:
       - title: Профи
         price: '5000'
         details: в месяц
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: |
+          Растущим селлерам с несколькими ЛК.
         features:
           - Feature one
           - Feature two
