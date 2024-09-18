@@ -204,7 +204,7 @@ sections:
     type: ImageGallerySection
     badge:
       type: Badge
-      label: делай с данными все что хочешь
+      label: Экосистема для развития
       color: text-primary
   - posts:
       - content/pages/blog/case-study-1.md
