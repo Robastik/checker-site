@@ -105,7 +105,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: на единой платформе Гугл
+    subtitle: на платформе Гугл
     items:
       - title: Уровень
         subtitle: сервиса Гугл
