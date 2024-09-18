@@ -83,7 +83,7 @@ sections:
       loop: true
       muted: true
     badge:
-      label: Key Benefits
+      label: основные преимущества
       color: text-primary
       styles:
         self:
