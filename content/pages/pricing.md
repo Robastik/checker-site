@@ -9,7 +9,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: ''
+    subtitle: Сервис временно работает бесплатно
     plans:
       - title: Старт
         price: '3000'
