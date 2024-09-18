@@ -145,7 +145,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: главное
+      label: главные
       color: text-primary
       styles:
         self:
