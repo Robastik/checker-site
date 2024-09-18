@@ -57,11 +57,23 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: This is a subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+      Выгрузки делает гугл-скрипт, файл которого нужно просто скопировать вместе
+      с гугл-таблицей.
+
+
+      Данные ежедневно выгружаются в гугл-облако. Возможна выгрузка в ручном
+      режиме в любое время.
+
+
+      Для расчетов и разработки гугл-таблиц потребуется специалист по
+      гугл-таблицам или SQL. Специалисту нужно техническое задание от финансиста
+      или экономиста с описанием расчета.
+
+
+      Готовый расчет или таблица не требуют затрат для ежедневного
+      использования.
+
     media:
       title: Title of the video
       url: ''
