@@ -75,8 +75,8 @@ sections:
       использования.
 
 
-      Данные можно использовать без дополнительной подготовки в Excel, Power BI,
-      Google Looker и многих других сервисах.
+      Данные доступны без дополнительной подготовки в Excel, Power BI, Google
+      Looker и многих других сервисах.
     media:
       title: Title of the video
       url: ''
