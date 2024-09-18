@@ -94,7 +94,7 @@ sections:
       loop: true
       muted: true
     badge:
-      label: просто и эффективно
+      label: ''
       color: text-primary
       styles:
         self:
