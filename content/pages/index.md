@@ -76,7 +76,7 @@ sections:
 
 
       Данные доступны без дополнительной подготовки в Excel, Power BI, Google
-      Looker и многих других сервисах.
+      Looker и других сервисах.
     media:
       title: Title of the video
       url: ''
