@@ -51,7 +51,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Преимущества
+      text: Преимущества решения
       color: text-dark
       styles:
         self:
