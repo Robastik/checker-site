@@ -50,7 +50,7 @@ sections:
           - pb-16
           - pr-16
   - title:
-      text: Grow your business 10x faster
+      text: Как работает решение
       color: text-dark
       styles:
         self:
