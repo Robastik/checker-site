@@ -57,7 +57,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: решения на единой платформе Гугл
+    subtitle: на единой платформе Гугл
     items:
       - title: Уровень
         subtitle: сервиса Гугл
