@@ -204,7 +204,7 @@ sections:
     type: ImageGallerySection
     badge:
       type: Badge
-      label: Экосистема для развития
+      label: платформа для развития
       color: text-primary
   - posts:
       - content/pages/blog/case-study-1.md
