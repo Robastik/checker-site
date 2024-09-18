@@ -164,48 +164,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Магия экосистемы Гугл
-    images:
-      - url: /images/mail.png
-        altText: Empathy logo
-        type: ImageBlock
-      - type: ImageBlock
-        url: /images/analitycs.png
-        altText: Image alt text placeholder
-        elementId: ''
-        styles:
-          self:
-            borderRadius: medium
-      - url: /images/maps.png
-        altText: Wellster logo
-        type: ImageBlock
-      - url: /images/assistant.png
-        altText: Vise logo
-        type: ImageBlock
-      - url: /images/disk.png
-        altText: Telus logo
-        type: ImageBlock
-      - url: /images/tables.png
-        altText: Contentful logo
-        type: ImageBlock
-      - url: /images/marketing.png
-        altText: Sanity logo
-        type: ImageBlock
-      - url: /images/cloud.png
-        altText: Rangle logo
-        type: ImageBlock
-    motion: move-to-left
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: ImageGallerySection
-    badge:
-      type: Badge
-      label: платформа для развития
-      color: text-primary
   - title:
       text: Grow your business 10x faster
       color: text-dark
@@ -254,6 +212,48 @@ sections:
       subtitle:
         textAlign: center
     type: GenericSection
+  - subtitle: Магия экосистемы Гугл
+    images:
+      - url: /images/mail.png
+        altText: Empathy logo
+        type: ImageBlock
+      - type: ImageBlock
+        url: /images/analitycs.png
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
+      - url: /images/maps.png
+        altText: Wellster logo
+        type: ImageBlock
+      - url: /images/assistant.png
+        altText: Vise logo
+        type: ImageBlock
+      - url: /images/disk.png
+        altText: Telus logo
+        type: ImageBlock
+      - url: /images/tables.png
+        altText: Contentful logo
+        type: ImageBlock
+      - url: /images/marketing.png
+        altText: Sanity logo
+        type: ImageBlock
+      - url: /images/cloud.png
+        altText: Rangle logo
+        type: ImageBlock
+    motion: move-to-left
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: center
+      subtitle:
+        textAlign: center
+    type: ImageGallerySection
+    badge:
+      type: Badge
+      label: платформа для развития
+      color: text-primary
   - posts:
       - content/pages/blog/case-study-1.md
       - content/pages/blog/case-study-2.md
