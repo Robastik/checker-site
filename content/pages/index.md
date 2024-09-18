@@ -94,7 +94,7 @@ sections:
       loop: true
       muted: true
     badge:
-      label: основные преимущества
+      label: просто и эффективно
       color: text-primary
       styles:
         self:
