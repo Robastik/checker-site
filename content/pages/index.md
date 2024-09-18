@@ -56,7 +56,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is a subtitle
+    subtitle: ''
     text: >
       Выгрузки делает гугл-скрипт, файл которого нужно просто скопировать вместе
       с гугл-таблицей.
