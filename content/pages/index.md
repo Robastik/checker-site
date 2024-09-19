@@ -350,8 +350,9 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is how it works, how it functions. Good design doesn't just
-          make a product aesthetically pleasing, it makes it a pleasure to use."
+          "Каждый день уносил миллион нервных клеток из-за сбоев в таблицах,
+          менеджеры рвали айтишника на части требуя исправления. Просто
+          невероятно, что аналитика может работать как часы."
         tagline: РОП
         subtitle: 'Maria Walters, Company'
         text: >-
