@@ -318,8 +318,9 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is a plan for arranging elements in such a way as best to
-          accomplish a particular purpose."
+          "Раньше редко выдавался день, когда у менеджеров были все таблицы с
+          актуальными данными. Сейчас наоборот - почти не бывает простоя из-за
+          технических сбоев."
         tagline: Селлер
         subtitle: Сергей
         text: >-
