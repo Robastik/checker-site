@@ -323,10 +323,11 @@ sections:
           технических сбоев."
         tagline: Селлер
         subtitle: Сергей
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Достаточно развитая аналитика для 8 ЛК ВБ и 7 ЛК Озон строилась на
+          питоне и гугл-таблицах, в т.ч. хранение данных и расчеты. Гугл-таблицы
+          на сотни артикулов и сто колонок постоянно сбоили. Переход на чекер
+          полностью вылечил проблему.
         image:
           url: /images/person-placeholder-light.png
           altText: John Doe
