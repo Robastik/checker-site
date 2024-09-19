@@ -77,6 +77,10 @@ sections:
 
       Выгруженные данные также доступны без дополнительной подготовки в Excel,
       Power BI, Google Looker и других сервисах.
+
+
+      Подробности в [справочной документации](/blog/short-overview/) и [группе
+      техподдержки](https://t.me/techsupport_4eker).
     media:
       title: Title of the video
       url: ''
