@@ -384,8 +384,9 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+          “Это был ад для всех. У менеджеров все постоянно виснет, они все ко
+          мне, я тоже не могу сразу все починить. С чекером прям другая жизнь
+          началась, работа в удовольствие.”
         tagline: Специалист гугл-таблиц
         subtitle: Татьяна
         text: >-
