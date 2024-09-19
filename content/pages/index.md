@@ -354,7 +354,7 @@ sections:
           менеджеры рвали айтишника на части требуя исправления. Просто
           невероятно, что аналитика может работать как часы."
         tagline: РОП
-        subtitle: 'Maria Walters, Company'
+        subtitle: Изабелла
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
