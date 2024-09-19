@@ -355,10 +355,13 @@ sections:
           невероятно, что аналитика может работать как часы."
         tagline: РОП
         subtitle: Изабелла
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Гугл-таблицы не предусмотрены для сложных и громоздких расчетов, хотя
+          и имеют возможности для отображения сотен тысяч ячеек. Хронические
+          зависания и сбои в гугл-таблицах мешают команде принимать решения.
+          Чекер хранит данные в специальном хранилище данных, позволяет
+          проводить расчеты на сверхнадежном движке, отображая в гугл-таблице
+          только результат. 
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
