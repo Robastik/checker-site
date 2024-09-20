@@ -68,7 +68,7 @@
             "type": "Link"
         },
         {
-            "label": "Privacy",
+            "label": "Конфиденциальность",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
