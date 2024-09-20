@@ -1,16 +1,16 @@
 {
     "logo": {
-        "url": "/images/logo-white.svg",
-        "altText": "Logo light",
+        "url": "/images/4ekr 100х43.svg",
+        "altText": "Чекер",
         "type": "ImageBlock"
     },
-    "text": "A description of your brand",
+    "text": "Выгрузка ЛК маркетплейсов в гугл-облако\n",
     "primaryLinks": {
-        "title": "Product",
+        "title": "Продукт",
         "links": [
             {
-                "label": "Features",
-                "altText": "Features page",
+                "label": "Описание",
+                "altText": "Возможности чекера",
                 "url": "/",
                 "icon": "arrowRight",
                 "iconPosition": "right",
@@ -18,43 +18,22 @@
                 "type": "Link"
             },
             {
-                "label": "Pricing",
+                "label": "Прайс",
                 "url": "/pricing",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
-                "type": "Link"
+                "type": "Link",
+                "altText": "Тарифные планы"
             },
             {
-                "label": "Documentation",
-                "url": "/",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            }
-        ],
-        "type": "FooterLinksGroup"
-    },
-    "secondaryLinks": {
-        "title": "Company",
-        "links": [
-            {
-                "label": "Careers",
-                "altText": "careers page",
-                "url": "/careers",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "label": "Blog",
+                "label": "Документация",
                 "url": "/blog",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
-                "type": "Link"
+                "type": "Link",
+                "altText": "Как пользоваться чекером"
             }
         ],
         "type": "FooterLinksGroup"
@@ -64,12 +43,6 @@
             "altText": "GitHub link",
             "url": "https://github.com/netlify",
             "icon": "github",
-            "type": "Social"
-        },
-        {
-            "altText": "Twitter link",
-            "url": "https://twitter.com/netlify",
-            "icon": "twitter",
             "type": "Social"
         },
         {
@@ -87,23 +60,25 @@
     ],
     "legalLinks": [
         {
-            "label": "Terms",
+            "label": "Условия",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
-            "type": "Link"
+            "type": "Link",
+            "altText": "Оферта"
         },
         {
-            "label": "Privacy",
+            "label": "Конфиденциальность",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
-            "type": "Link"
+            "type": "Link",
+            "altText": "Политика конфиденциальности"
         }
     ],
-    "copyrightText": "Powered by [Netlify Create](https://www.netlify.com/platform/create/)",
+    "copyrightText": "",
     "colors": "bg-dark-fg-light",
     "type": "Footer"
 }

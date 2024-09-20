@@ -1,38 +1,30 @@
 ---
-title: Pricing
+title: Цены
 slug: pricing
 sections:
   - title:
-      text: Flexible Pricing
+      text: Цены
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is the subtitle for the pricing section
+    subtitle: Сервис временно работает бесплатно
     plans:
-      - title: Developers
-        price: Free
-        details: No credit card required
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+      - title: Старт
+        price: '3000'
+        details: в месяц
+        description: |
+          Начинающим селлерам с одним ЛК Вайлдберриз или Озон.
         features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
+          - Единственный кабинет на маркетплейсах
+          - Поддержка в telegram
+          - Месяц бесплатно
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/just-opened-start-tarif.jpeg
           altText: Pricing plan 1
           type: ImageBlock
-        actions:
-          - label: Try for free
-            url: /
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-            type: Button
+        actions: []
         colors: bg-neutral-fg-dark
         styles:
           self:
@@ -43,28 +35,21 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-      - title: Professional
-        price: $99
-        details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+      - title: Профи
+        price: '5000'
+        details: в месяц
+        description: |
+          Растущим селлерам с несколькими ЛК
         features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
+          - Любое количество кабинетов
+          - Выгрузка Мой склад
+          - Выгрузка mpstats
+          - Поддержка в telegram
         image:
-          url: /images/abstract-feature2.svg
+          url: /images/pro-seller-tarif.jpeg
           altText: Pricing plan 2
           type: ImageBlock
-        actions:
-          - label: Try for free
-            url: /
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-            type: Button
+        actions: []
         colors: bg-neutral-fg-dark
         styles:
           self:
@@ -75,29 +60,23 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-      - title: Enterprise
-        price: Custom
-        details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam.
+      - title: Интеграция
+        price: договорная
+        details: свяжитесь с нами
+        description: >
+          Приоритетная поддержка для эффективного достижения целей IT-команды
+          селлера
         features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
-          - Feature five
+          - Любое количество кабинетов
+          - Выгрузка Мой склад
+          - Выгрузка mpstats
+          - Тесная коммуникация
+          - Консультирование
         image:
-          url: /images/abstract-feature3.svg
+          url: /images/integration-tarif.jpeg
           altText: Pricing plan 3
           type: ImageBlock
-        actions:
-          - label: Contact us
-            url: /
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-            type: Button
+        actions: []
         colors: bg-neutral-fg-dark
         styles:
           self:
