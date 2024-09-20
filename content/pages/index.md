@@ -387,10 +387,11 @@ sections:
           началась, работа в удовольствие.”
         tagline: Специалист гугл-таблиц
         subtitle: Татьяна
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Сам принцип работы гугл-таблиц не рассчитан на большое количество
+          вычислений и не предназначен для хранения ежедневных выгрузок. С
+          ростом нагрузки отсутствие профессиональных инструментов приводит к
+          большим техническим проблемам.
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
