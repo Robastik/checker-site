@@ -28,7 +28,7 @@
             },
             {
                 "label": "Документация",
-                "url": "/",
+                "url": "/blog",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
