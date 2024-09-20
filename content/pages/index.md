@@ -419,10 +419,10 @@ sections:
           самим чтобы точно понимать свои цифры."
         tagline: Финансовый директор
         subtitle: Александр
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Нет двух одинаковых селлеров и универсального набора дашбордов для
+          всех случаев не существует. Чекер снимает ограничения для точного
+          соответствия имеющихся компетенций и их технической реализации.
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
