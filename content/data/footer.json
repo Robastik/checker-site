@@ -65,7 +65,8 @@
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
-            "type": "Link"
+            "type": "Link",
+            "altText": "Оферта"
         },
         {
             "label": "Конфиденциальность",
