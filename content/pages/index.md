@@ -418,7 +418,7 @@ sections:
           не могут объяснить как получили конкретные показатели. Надо считать
           самим чтобы точно понимать свои цифры."
         tagline: Финансовый директор
-        subtitle: 'Jane Walters, Company'
+        subtitle: Александр
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
