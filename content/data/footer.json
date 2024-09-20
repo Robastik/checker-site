@@ -10,7 +10,7 @@
         "links": [
             {
                 "label": "Описание",
-                "altText": "Features page",
+                "altText": "Возможности чекера",
                 "url": "/",
                 "icon": "arrowRight",
                 "iconPosition": "right",
