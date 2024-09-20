@@ -414,8 +414,9 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design can be art. Design can be aesthetics. Design is so simple,
-          that's why it is so complicated."
+          "Никогда не знаешь как делают расчеты сторонние сервисы. Они никогда
+          не могут объяснить как получили конкретные показатели. Надо считать
+          самим чтобы точно понимать свои цифры."
         tagline: Финансовый директор
         subtitle: 'Jane Walters, Company'
         text: >-
