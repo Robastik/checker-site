@@ -22,7 +22,7 @@ sections:
         type: Button
       - label: Подробнее
         altText: ''
-        url: /
+        url: /blog/short-overview/
         showIcon: true
         icon: arrowRight
         iconPosition: right
