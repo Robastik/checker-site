@@ -83,3 +83,8 @@ styles:
 ##### Дальше
 
 [Как получить id проекта BigQuery](/blog/bigquery-initialization/)
+
+##### Назад
+
+[Начало работы](/blog/beginning-of-use/)
+
