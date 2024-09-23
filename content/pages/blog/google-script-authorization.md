@@ -125,3 +125,12 @@ styles:
 ##### Дальше
 
 [Тест выгрузки ЛК по API](/blog/first-manual-unloading-bigquery/)
+
+##### Назад
+
+[Начало работы](/blog/beginning-of-use/)
+
+
+
+
+
