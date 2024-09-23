@@ -38,53 +38,53 @@ styles:
 
 Лист **Ключи API** заполнен на предудущих шагах и например для ВБ выглядит примерно так:
 
-![](/images/test-unload-api-keys.png)
+
 
 Также на предыдущих шагах была выполнена [активация чекера](/blog/google-script-authorization/).
 
 Перейдите на лист **Параметры** и прокрутите в конец раздела ВБ до выгрузки **Поставки → Список складов**:
 
-![](/images/test-unload-row-getwarehouse.PNG)
+
 
 Поставки - это [раздел API ВБ](https://openapi.wildberries.ru/supplies/api/ru/). Список складов - [метод этого раздела ](https://openapi.wildberries.ru/supplies/api/ru/#tag/Informaciya-dlya-formirovaniya-postavok/paths/~1api~1v1~1warehouses/get)для выгрузки списка складов ВБ. getListWarehouse - функция реализующая метод **Список складов**. Функция getListWarehouse находится в проекте гугл-скриптов **4eker**, который открывается в меню **Расширения → Apps Script**:
 
-![](/images/test-unload-menu-appsscript.png)
+
 
 Сделаем тестовую выгрузку списка складов ВБ.
 
 Для запуска выгрузки кликните на чекбокс в ячейке слева от getListWarehouse. При этом в чекбоксе появится галка:
 
-![](/images/test-unload-chekbox-on.png)
+
 
 Выгрузка начнется со всплывающего уведомления в правом нижнем углу и закончится таким же уведомлением:
 
-![](/images/test-unload-end-process.png)
+
 
 Теперь перейдем в BigQuery за результатом выгрузки. Для этого переходим по адресу [console.cloud.google.com](https://console.cloud.google.com/), в левом верхнем углу в выпадающем списке выбираем название проекта, ID которого указан на листе чекера Ключи API:
 
-![](/images/test-unload-choose-project.png)
+
 
 и кликаем BigQuery:
 
-![](/images/test-unload-goto-BQ.png)
+
 
 В открывшейся консоли BiqQuery находятся данные проекта, ID которого находится на панели навигации:
 
-![](/images/test-unload-project-view.png)
+
 
 Клик на треугольнике откроет структуру проекта данных:
 
-![](/images/test-unload-bq-navigation-panel.PNG)
+
 
 Здесь создана папка *wb\_api\_supply* (ВБ-API-Поставки), в которую выгружаются все данные раздела API ВБ Поставки. В папке находится таблица *Список складов\_2024-09-12* со списком складов, выгруженным 13.09.2024 и датированым 12.09.2024 вследствие разницы часовых поясов.
 
 Клик на таблице *Список складов\_2024-09-12* открывает таблицу для просмотра по кнопке PREVIEW в правом меню навигации:
 
-![](/images/test-unload-bq-full-panel.PNG)
+
 
 Открыть таблицу в гугл-таблице можно в меню **EXPORT → Explore with Sheets**:
 
-![](/images/test-unload-explore-with-sheets.png)
+
 
 ##### Дальше
 
@@ -95,8 +95,3 @@ styles:
 ##### Назад
 
 [Начало работы](/blog/beginning-of-use/)
-
-
-
-
-
