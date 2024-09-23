@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: Тест выгрузки ЛК по API
+title: Ежедневная выгрузка ЛК по API
 date: '2024-09-04'
 author: content/data/person1.json
 excerpt: Делаем первую тестовую выгрузку ЛК по API →
