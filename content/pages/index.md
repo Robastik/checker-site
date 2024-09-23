@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Чекер|Выгрузка по API Вайлдберриз и Озон
 slug: /
 sections:
   - type: GenericSection
