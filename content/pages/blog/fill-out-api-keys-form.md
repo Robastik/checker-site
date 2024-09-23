@@ -93,3 +93,8 @@ styles:
 Дальше
 
 [Активация чекера](/blog/google-script-authorization/)
+
+##### Назад
+
+Начало работы
+
