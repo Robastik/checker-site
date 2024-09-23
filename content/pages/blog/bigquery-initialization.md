@@ -74,3 +74,12 @@ styles:
 ##### Дальше
 
 [Бесплатный и платный тарифы BigQuery](/blog/bigquery-sandbox/)
+
+##### Назад
+
+[Начало работы](/blog/beginning-of-use/)
+
+
+
+
+
