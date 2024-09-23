@@ -393,7 +393,7 @@ sections:
           ростом нагрузки отсутствие профессиональных инструментов приводит к
           большим техническим проблемам.
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/review-manager-photo.jpg
           altText: Maria Walters
           styles:
             self:
