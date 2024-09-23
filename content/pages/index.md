@@ -361,7 +361,7 @@ sections:
           проводить расчеты на сверхнадежном движке, отображая в гугл-таблицах
           только результат.
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/review-seller-photo.jpg
           altText: Maria Walters
           styles:
             self:
