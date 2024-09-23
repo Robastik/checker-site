@@ -424,7 +424,7 @@ sections:
           всех случаев не существует. Чекер снимает ограничения для точного
           соответствия имеющихся компетенций и их технической реализации.
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/review-findir-photo.jpg
           altText: Maria Walters
           styles:
             self:
