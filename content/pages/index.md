@@ -299,7 +299,7 @@ sections:
           на сотни артикулов и сто колонок постоянно сбоили. Переход на чекер
           полностью вылечил проблему.
         image:
-          url: /images/review-chief-photo.jpg
+          url: /images/review-chief-1-photo.jpg
           altText: John Doe
           styles:
             self:
