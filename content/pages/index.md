@@ -21,7 +21,7 @@ sections:
         elementId: ''
         type: Button
       - label: Подробнее
-        altText: ''
+        altText: Что такое чекер
         url: /blog/short-overview/
         showIcon: true
         icon: arrowRight
