@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Чекер|Выгрузка по API Вайлдберриз и Озон
 slug: /
 sections:
   - type: GenericSection
@@ -329,7 +329,7 @@ sections:
           на сотни артикулов и сто колонок постоянно сбоили. Переход на чекер
           полностью вылечил проблему.
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/review-chief-photo.jpg
           altText: John Doe
           styles:
             self:
@@ -361,7 +361,7 @@ sections:
           проводить расчеты на сверхнадежном движке, отображая в гугл-таблицах
           только результат.
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/review-seller-photo.jpg
           altText: Maria Walters
           styles:
             self:
@@ -393,7 +393,7 @@ sections:
           ростом нагрузки отсутствие профессиональных инструментов приводит к
           большим техническим проблемам.
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/review-manager-photo.jpg
           altText: Maria Walters
           styles:
             self:
@@ -424,7 +424,7 @@ sections:
           всех случаев не существует. Чекер снимает ограничения для точного
           соответствия имеющихся компетенций и их технической реализации.
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/review-findir-photo.jpg
           altText: Maria Walters
           styles:
             self:
