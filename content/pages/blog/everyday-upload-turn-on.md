@@ -44,7 +44,7 @@ styles:
 
 При успешном завершении появится сообщение
 
-
+![](/images/everyday-upload-alert.PNG)
 
 
 
