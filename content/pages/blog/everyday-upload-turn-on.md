@@ -40,4 +40,4 @@ styles:
 
 ##### Назад
 
-[Начало работы](/blog/beginning-of-use/)
+[Тест выгрузки ЛК по API](/blog/first-manual-unloading-bigquery/)
