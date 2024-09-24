@@ -67,3 +67,4 @@ styles:
 
 ##### Назад
 
+[Как получить id проекта Big Query](/blog/bigquery-initialization/)
