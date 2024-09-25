@@ -3,7 +3,7 @@ type: PostLayout
 title: Ежедневная выгрузка ЛК по API
 date: '2024-09-21'
 author: content/data/person1.json
-excerpt: Делаем первую тестовую выгрузку ЛК по API →
+excerpt: Включаем ежедневную выгрузку ЛК по API →
 featuredImage:
   type: ImageBlock
   url: /images/WhatsApp Image 2024-09-25 at 10.41.38.jpeg
