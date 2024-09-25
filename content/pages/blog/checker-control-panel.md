@@ -4,8 +4,8 @@ title: Панель управления чекера
 date: '2024-09-24'
 author: content/data/person1.json
 excerpt: >-
-  Инструкция по получению id проекта BigQuery для вставки на лист чекера Ключи
-  API →
+  Панель управления чекера - это та гугл-таблица, которую нужно скопировать в
+  самом начале. На листах этой гугл-таблицы расположено все управление чекером →
 featuredImage:
   type: ImageBlock
   url: /images/BigQuery-integrations-cover.png
