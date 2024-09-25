@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: Как получить id проекта BigQuery
+title: Панель управления чекера
 date: '2024-09-04'
 author: content/data/person1.json
 excerpt: >-
