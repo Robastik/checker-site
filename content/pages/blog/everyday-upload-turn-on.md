@@ -7,7 +7,7 @@ excerpt: Делаем первую тестовую выгрузку ЛК по A
 featuredImage:
   type: ImageBlock
   url: /images/WhatsApp Image 2024-09-25 at 10.41.38.jpeg
-  altText: Тестовая выгрузка ЛК по API
+  altText: Ежедневная выгрузка ЛК по API
   elementId: ''
   styles:
     self:
