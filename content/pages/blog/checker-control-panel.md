@@ -8,7 +8,7 @@ excerpt: >-
   самом начале. На листах этой гугл-таблицы расположено все управление чекером →
 featuredImage:
   type: ImageBlock
-  url: /images/BigQuery-integrations-cover.png
+  url: /images/control-panel-main.jpeg
   altText: id проекта BigQuery
   elementId: ''
   styles:
