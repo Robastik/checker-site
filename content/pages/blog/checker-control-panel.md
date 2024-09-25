@@ -25,9 +25,7 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: Контрольная панель чекера
-  metaDescription: >-
-    Инструкция по инициализации BigQuery для хранения данных Вайлдберриз Озон
-    Мой склад mpStats
+  metaDescription: 'Контроль и '
   addTitleSuffix: false
   socialImage: /images/BigQuery-integrations-cover.png
   metaTags: []
