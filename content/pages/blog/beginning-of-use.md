@@ -18,38 +18,7 @@ featuredImage:
         - pl-0
         - pb-0
         - pr-0
-bottomSections:
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-3
-          - pl-3
-          - pb-3
-          - pr-3
-  - type: RecentPostsSection
-    title:
-      type: TitleBlock
-      text: Справочные материалы
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    recentCount: 3
-    showThumbnail: true
-    showExcerpt: true
-    showDate: true
-    showAuthor: true
-    actions: []
-    elementId: ''
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
+bottomSections: []
 slug: beginning-of-use
 isFeatured: false
 isDraft: false
@@ -79,7 +48,7 @@ styles:
 
 #### Шаг 3
 
-Для выгрузки данных по API используются специальные пароли, которые называются **ключи API** или **токены**. Ключи API (токены) можно получить в своем личном кабинете. Где они находятся в ЛК и как их там получить написано в справочных материалах каждого сервиса: [**ВБ**](https://openapi.wildberries.ru/general/authorization/ru/?ysclid=m0lqy3a2ib366798734), [**Озон**](https://seller-edu.ozon.ru/api-ozon/how-to-api), [**Мой склад**](https://dev.moysklad.ru/doc/api/remap/1.2/?ysclid=m0lr4f4lqp670379825#mojsklad-json-api), [**mpStats**](https://mpstats.io/integrations). Если в официальной справке написано непонятно или она устарела и не соответствует текущему устройству ЛК, тогда нужно искать по фразе ["*как получить ключ апи вб* (озон, мой склад, мпСтатс - указать нужное)"](https://ya.ru/search/?text=%D0%BA%D0%B0%D0%BA+%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B8%D1%82%D1%8C+%D0%BA%D0%BB%D1%8E%D1%87+%D0%B0%D0%BF%D0%B8+%D0%B2%D0%B1\&lr=74).
+Для выгрузки данных по API используются специальные пароли, которые называются **ключи API** или **токены**. Ключи API (токены) можно получить в своем личном кабинете. Где они находятся в ЛК и как их там получить написано в справочных материалах каждого сервиса: [**ВБ** (Шаг 1)](https://dev.wildberries.ru/cases/1), [**Озон**](https://seller-edu.ozon.ru/api-ozon/how-to-api), [**Мой склад**](https://dev.moysklad.ru/doc/api/remap/1.2/?ysclid=m0lr4f4lqp670379825#mojsklad-json-api), [**mpStats**](https://mpstats.io/integrations). Если в официальной справке написано непонятно или она устарела и не соответствует текущему устройству ЛК, тогда нужно искать по фразе ["*как получить ключ апи вб* (озон, мой склад, мпСтатс - указать нужное)"](https://ya.ru/search/?text=%D0%BA%D0%B0%D0%BA+%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B8%D1%82%D1%8C+%D0%BA%D0%BB%D1%8E%D1%87+%D0%B0%D0%BF%D0%B8+%D0%B2%D0%B1\&lr=74).
 
 #### Шаг 4
 
@@ -90,3 +59,11 @@ styles:
 Гугл очень заботится о безопасности своих пользователей. Поэтому в максимально тревожной форме предупреждает о возможных рисках. Прежде, чем запустится выгрузка по API, необходимо просмотреть эти предупреждения и подтвердить свои действия как потенциально опасные. Как **пройти авторизацию** написали [здесь](/blog/google-script-authorization/).
 
 На этом подготовка закончена. Можно перейти к [ручной выгрузке](/blog/first-manual-unloading-bigquery/), включить автоматическую ежедневную выгрузку и познакомиться с назначением листов чекера.
+
+##### Дальше
+
+[Как скопировать гугл-таблицу](/blog/copying-spreadsheet-file/)
+
+##### Назад
+
+[Общие сведения и содержание](/blog/short-overview/)

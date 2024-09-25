@@ -16,38 +16,7 @@ featuredImage:
         - pl-0
         - pb-0
         - pr-0
-bottomSections:
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-3
-          - pl-3
-          - pb-3
-          - pr-3
-  - type: RecentPostsSection
-    title:
-      type: TitleBlock
-      text: Справочные материалы
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    recentCount: 3
-    showThumbnail: true
-    showExcerpt: true
-    showDate: true
-    showAuthor: true
-    actions: []
-    elementId: ''
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
+bottomSections: []
 slug: bigquery-sandbox
 isFeatured: false
 isDraft: false
@@ -95,3 +64,7 @@ styles:
 ##### Дальше
 
 Соберите ключи API по ссылкам указанным в пункте [Шаг 3](/blog/beginning-of-use/).
+
+##### Назад
+
+[Как получить id проекта Big Query](/blog/bigquery-initialization/)

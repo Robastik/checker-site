@@ -19,38 +19,7 @@ featuredImage:
         - pl-0
         - pb-0
         - pr-0
-bottomSections:
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-3
-          - pl-3
-          - pb-3
-          - pr-3
-  - type: RecentPostsSection
-    title:
-      type: TitleBlock
-      text: Справочные материалы
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    recentCount: 3
-    showThumbnail: true
-    showExcerpt: true
-    showDate: true
-    showAuthor: true
-    actions: []
-    elementId: ''
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
+bottomSections: []
 slug: /google-script-authorization
 isFeatured: false
 isDraft: false
@@ -125,3 +94,12 @@ styles:
 ##### Дальше
 
 [Тест выгрузки ЛК по API](/blog/first-manual-unloading-bigquery/)
+
+##### Назад
+
+[Начало работы](/blog/beginning-of-use/)
+
+
+
+
+

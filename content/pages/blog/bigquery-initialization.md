@@ -18,38 +18,7 @@ featuredImage:
         - pl-0
         - pb-0
         - pr-0
-bottomSections:
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-3
-          - pl-3
-          - pb-3
-          - pr-3
-  - type: RecentPostsSection
-    title:
-      type: TitleBlock
-      text: Справочные материалы
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    recentCount: 3
-    showThumbnail: true
-    showExcerpt: true
-    showDate: true
-    showAuthor: true
-    actions: []
-    elementId: ''
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
+bottomSections: []
 slug: /bigquery-initialization
 isFeatured: false
 isDraft: false
@@ -67,7 +36,7 @@ styles:
   self:
     flexDirection: col
 ---
-Если у вас уже есть облачный проект Гугл, перейдите к следующему пункту для получения его **ID** (идентификатора). Если проекта нет, получим его id при создании. Чтобы определить наличие проекта и его состояние перейдите по ссылке [console.cloud.google.com/bigquery](https://console.cloud.google.com/bigquery).
+Если облачный проект Гугл уже создан, можно перейти к следующему пункту. Чтобы проверить наличие проекта и его состояние перейдите по ссылке [console.cloud.google.com/bigquery](https://console.cloud.google.com/bigquery).
 
 ### Создание проекта
 
@@ -75,19 +44,7 @@ styles:
 
 Если вы совсем новый пользователь и у вас не было ранее создано проекта, нужно будет указать страну (понятно какую страну указывать не стоит) и согласиться с условиями использования облачных сервисов Гугл. Затем нужно создать свой первый проект (кнопка **Создать проект**), указав его название. Также можно сменить автоматически сгенерированный **ID** (идентификатор проекта) на более осмысленный:![](/images/create-bq-project.PNG)
 
-> Указанный при создании проекта идентификатор проекта
->
-> **ID**
->
-> нужно будет вставлять в чекере на листе
->
-> **Ключи API**
->
-> в поле
->
-> **проект BigQuery**
->
-> .
+> Указанный при создании проекта идентификатор проекта **ID** нужно будет вставлять в чекере на листе **Ключи API** в поле **проект  BigQuery**.
 
 ### Подключение в проект BigQuery
 
@@ -105,3 +62,7 @@ styles:
 ##### Дальше
 
 [Бесплатный и платный тарифы BigQuery](/blog/bigquery-sandbox/)
+
+##### Назад
+
+[Начало работы](/blog/beginning-of-use/)

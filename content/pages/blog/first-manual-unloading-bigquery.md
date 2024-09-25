@@ -16,38 +16,7 @@ featuredImage:
         - pl-0
         - pb-0
         - pr-0
-bottomSections:
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-3
-          - pl-3
-          - pb-3
-          - pr-3
-  - type: RecentPostsSection
-    title:
-      type: TitleBlock
-      text: Recent posts
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    recentCount: 3
-    showThumbnail: true
-    showExcerpt: true
-    showDate: true
-    showAuthor: true
-    actions: []
-    elementId: ''
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
+bottomSections: []
 slug: /first-manual-unloading-bigquery
 isFeatured: false
 isDraft: false
@@ -119,6 +88,8 @@ styles:
 
 ##### Дальше
 
-Автоматическая выгрузка *Включить ежедневную автоматическую выгрузку всех даннных.*
+[*Ежедневная выгрузка ЛК по API*](/blog/everyday-upload-turn-on/)
 
-Панель чекера *Назначение листов чекера для управления выгрузками*.
+##### Назад
+
+[Начало работы](/blog/beginning-of-use/)

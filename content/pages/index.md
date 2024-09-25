@@ -21,8 +21,8 @@ sections:
         elementId: ''
         type: Button
       - label: Подробнее
-        altText: ''
-        url: /
+        altText: Что такое чекер
+        url: /blog/short-overview/
         showIcon: true
         icon: arrowRight
         iconPosition: right
@@ -288,36 +288,6 @@ sections:
     subtitle: Отзывы селлеров и менеджеров
     items:
       - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
-        tagline: Testimonial 1
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/person-placeholder-light.png
-          altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: >-
           "Раньше редко выдавался день, когда у менеджеров были все таблицы с
           актуальными данными. Сейчас наоборот - почти не бывает простоя из-за
           технических сбоев."
@@ -329,7 +299,7 @@ sections:
           на сотни артикулов и сто колонок постоянно сбоили. Переход на чекер
           полностью вылечил проблему.
         image:
-          url: /images/review-chief-photo.jpg
+          url: /images/review-chief-1-photo.jpg
           altText: John Doe
           styles:
             self:
@@ -351,7 +321,7 @@ sections:
         type: FeaturedItem
       - title: >-
           "Каждый день уносил миллион нервных клеток из-за сбоев в таблицах,
-          менеджеры рвали айтишника на части требуя исправления. Просто
+          менеджеры рвали айтишника на части требуя исправлений. Просто
           невероятно, что аналитика может работать как часы."
         tagline: РОП
         subtitle: Изабелла
@@ -414,9 +384,9 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Никогда не знаешь как делают расчеты сторонние сервисы. Они никогда
-          не могут объяснить как получили конкретные показатели. Надо считать
-          самим чтобы точно понимать свои цифры."
+          "Минимум 4 из 5 `профессионалов` тупо неграмотные и полагаться на
+          расчеты сторонних `сервисов` нельзя. Надо считать самим чтобы точно
+          понимать свои цифры."
         tagline: Финансовый директор
         subtitle: Александр
         text: >
@@ -432,36 +402,6 @@ sections:
           type: ImageBlock
         actions: []
         colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: >-
-          “Quote from some important person goes right here. I love using
-          Netlify Create.”
-        tagline: Testimonial 6
-        subtitle: 'Jane Doe, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/img-placeholder-dark.png
-          altText: Jane Doe
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-dark-fg-light
         styles:
           self:
             padding:

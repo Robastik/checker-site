@@ -16,38 +16,7 @@ featuredImage:
         - pl-0
         - pb-0
         - pr-0
-bottomSections:
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-3
-          - pl-3
-          - pb-3
-          - pr-3
-  - type: RecentPostsSection
-    title:
-      type: TitleBlock
-      text: Справочные материалы
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    recentCount: 3
-    showThumbnail: true
-    showExcerpt: true
-    showDate: true
-    showAuthor: true
-    actions: []
-    elementId: ''
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
+bottomSections: []
 slug: fill-out-api-keys-form
 isFeatured: false
 isDraft: false
@@ -90,6 +59,10 @@ styles:
 
 В тех случаях, когда нет необходимости выгружать данные всех кабинетов (например, для списка складов или коэффициентов приемки) используется название **noCabinet**. Это название соответствует верхнему в списке ключу API или единственному ключу - когда в Мой склад все кабинеты ВБ и Озон выгружаются одним ключом API.
 
-Дальше
+##### Дальше
 
 [Активация чекера](/blog/google-script-authorization/)
+
+##### Назад
+
+[Начало работы](/blog/beginning-of-use/)
