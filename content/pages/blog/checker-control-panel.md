@@ -27,7 +27,7 @@ seo:
   metaTitle: Контрольная панель чекера
   metaDescription: 'Настройка, запуск и контроль результатов выгрузок ЛК по API'
   addTitleSuffix: false
-  socialImage: /images/BigQuery-integrations-cover.png
+  socialImage: /images/control-panel-main.jpeg
   metaTags: []
 colors: bg-light-fg-dark
 styles:
