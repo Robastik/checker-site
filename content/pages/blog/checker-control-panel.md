@@ -9,7 +9,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/control-panel-main.jpeg
-  altText: id проекта BigQuery
+  altText: Контрольная панель чекера
   elementId: ''
   styles:
     self:
