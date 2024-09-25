@@ -6,7 +6,7 @@ author: content/data/person1.json
 excerpt: Делаем первую тестовую выгрузку ЛК по API →
 featuredImage:
   type: ImageBlock
-  url: /images/first-unload-api.svg
+  url: /images/WhatsApp Image 2024-09-25 at 10.41.38.jpeg
   altText: Тестовая выгрузка ЛК по API
   elementId: ''
   styles:
