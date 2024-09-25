@@ -1,7 +1,7 @@
 ---
 type: PostLayout
 title: Панель управления чекера
-date: '2024-09-02'
+date: '2024-09-24'
 author: content/data/person1.json
 excerpt: >-
   Инструкция по получению id проекта BigQuery для вставки на лист чекера Ключи
