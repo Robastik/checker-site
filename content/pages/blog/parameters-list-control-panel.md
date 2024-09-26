@@ -27,7 +27,7 @@ seo:
   metaTitle: Работа с листом Параметры
   metaDescription: Настройка и ручной запуск выгрузок
   addTitleSuffix: false
-  socialImage: /images/control-panel-main.jpeg
+  socialImage: /images/control-panel-list-parameters.jpeg
   metaTags: []
 colors: bg-light-fg-dark
 styles:
