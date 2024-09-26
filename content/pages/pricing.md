@@ -18,7 +18,6 @@ sections:
           Начинающим селлерам с одним ЛК Вайлдберриз или Озон.
         features:
           - Единственный кабинет на маркетплейсах
-          - Поддержка в telegram
           - Месяц бесплатно
         image:
           url: /images/just-opened-start-tarif.jpeg
