@@ -24,7 +24,7 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: Контрольная панель чекера
+  metaTitle: Работа с листом Параметры
   metaDescription: 'Настройка, запуск и контроль результатов выгрузок ЛК по API'
   addTitleSuffix: false
   socialImage: /images/control-panel-main.jpeg
