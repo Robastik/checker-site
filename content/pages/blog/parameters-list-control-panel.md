@@ -9,7 +9,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/control-panel-main.jpeg
-  altText: Контрольная панель чекера
+  altText: Работа с листом Параметры
   elementId: ''
   styles:
     self:
