@@ -1,7 +1,7 @@
 ---
 type: PostLayout
 title: Работа с листом Параметры
-date: '2024-09-24'
+date: '2024-09-02'
 author: content/data/person1.json
 excerpt: >-
   Панель управления чекера - это та гугл-таблица, которую нужно скопировать в
