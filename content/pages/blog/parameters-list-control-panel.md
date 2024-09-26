@@ -25,7 +25,7 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: Работа с листом Параметры
-  metaDescription: 'Настройка, запуск и контроль результатов выгрузок ЛК по API'
+  metaDescription: Настройка и ручной запуск выгрузок
   addTitleSuffix: false
   socialImage: /images/control-panel-main.jpeg
   metaTags: []
