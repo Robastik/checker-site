@@ -8,7 +8,7 @@ excerpt: >-
   самом начале. На листах этой гугл-таблицы расположено все управление чекером →
 featuredImage:
   type: ImageBlock
-  url: /images/control-panel-main.jpeg
+  url: /images/control-panel-list-parameters.jpeg
   altText: Работа с листом Параметры
   elementId: ''
   styles:
