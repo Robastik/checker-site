@@ -1,5 +1,5 @@
 ---
-title: 'Чекер|Выгрузка по API Вайлдберриз и Озон '
+title: Чекер|Выгрузка по API Вайлдберриз и Озон
 slug: /
 sections:
   - type: GenericSection
