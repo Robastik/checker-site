@@ -423,7 +423,7 @@ sections:
       subtitle:
         textAlign: center
 seo:
-  metaTitle: Чекер
+  metaTitle: 'Чекер '
   metaDescription: Выгрузка по API ЛК селлера на маркетплейсах
   socialImage: /images/main-page-cover.svg
   type: Seo
