@@ -424,7 +424,7 @@ sections:
         textAlign: center
 seo:
   metaTitle: Чекер
-  metaDescription: Выгрузка по API ЛК селлера на маркетплейсах
+  metaDescription: 'Выгрузка по API ЛК селлера на маркетплейсах '
   socialImage: /images/main-page-cover.svg
   type: Seo
 type: PageLayout
