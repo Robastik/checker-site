@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: Работа с листом Параметры
+title: Лист Параметры
 date: '2024-09-25'
 author: content/data/person1.json
 excerpt: >-
