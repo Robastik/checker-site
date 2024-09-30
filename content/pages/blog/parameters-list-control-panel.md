@@ -110,19 +110,44 @@ styles:
 
 В некоторых случаях структура выгружаемых данных может быть дополнена или изменена.
 
-Дополнение структуры используется в случаях, когда выгружаемые данные не содержат данных запроса. 
+Дополнение структуры используется в случаях, когда выгружаемые данные не содержат данных запроса.
 
 Например, выгрузка метода *Озон → Финансовые отчёты → Суммы транзакций* выгружает данные для запрашиваемого *posting\_number*, но в возвращаемых данных *posting\_number* отсутствует. Поэтому полученные данные дополняются *posting\_number*.
 
 Изменение структуры данных используется в том случае, когда выгружаемые данные оптимизированы не для непосредственного использования в построении аналитических таблиц, а для других целей.
 
-Например, метод *Озон → Аналитические отчёты → Данные аналитики* выгружает данные в виде массива массивов. Это компактная форма, которая удобна для передачи. Для хранения данных и для построения таблиц эта форма неудобна. Поэтому выгружаемый массив массивов разворачиается в таблицу реляционной БД. 
+Например, метод *Озон → Аналитические отчёты → Данные аналитики* выгружает данные в виде массива массивов. Это компактная форма, которая удобна для передачи. Для хранения данных и для построения таблиц эта форма неудобна. Поэтому выгружаемый массив массивов разворачиается в таблицу реляционной БД.
 
-В этом примере также поле *timestamp* дублируется в формате *DATETIME*. 
+В этом примере также поле *timestamp* дублируется в формате *DATETIME*.
 
-Для того, чтобы увидеть структуру данных конкретной выгрузки, сделайте эту выгрузку и откройте схему полученных данных в BigQuery. В нашем примере это будет такая структура:
+Для того, чтобы увидеть структуру данных конкретной выгрузки, сделайте эту выгрузку и откройте схему полученных данных в BigQuery. В нашем примере это будет такая таблица:
 
-  
+| field name                 | mode     | type      |
+| -------------------------- | -------- | --------- |
+| session\_view\_pdp         | NULLABLE | INTEGER   |
+| session\_view\_search      | NULLABLE | INTEGER   |
+| hits\_view                 | NULLABLE | INTEGER   |
+| hits\_tocart\_pdp          | NULLABLE | INTEGER   |
+| totalHits\_tocart\_search  | NULLABLE | INTEGER   |
+| name1                      | NULLABLE | STRING    |
+| day                        | NULLABLE | DATE      |
+| name0                      | NULLABLE | STRING    |
+| dateTo                     | NULLABLE | DATE      |
+| hits\_view\_pdp            | NULLABLE | INTEGER   |
+| timestamp                  | NULLABLE | TIMESTAMP |
+| sku                        | NULLABLE | INTEGER   |
+| totalHits\_view            | NULLABLE | INTEGER   |
+| totalHits\_view\_pdp       | NULLABLE | INTEGER   |
+| totalHits\_tocart\_pdp     | NULLABLE | INTEGER   |
+| totalSession\_view\_pdp    | NULLABLE | INTEGER   |
+| dateFrom                   | NULLABLE | DATE      |
+| totalHits\_view\_search    | NULLABLE | INTEGER   |
+| totalHits\_tocart          | NULLABLE | INTEGER   |
+| reportCreateDateTime       | NULLABLE | TIMESTAMP |
+| hits\_tocart               | NULLABLE | INTEGER   |
+| hits\_tocart\_search       | NULLABLE | INTEGER   |
+| hits\_view\_search         | NULLABLE | INTEGER   |
+| totalSession\_view\_search | NULLABLE | INTEGER   |
 
 ##### Дальше
 
