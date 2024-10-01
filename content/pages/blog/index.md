@@ -35,7 +35,7 @@ seo:
   metaDescription: >-
     Справочная информация для выгрузки данных личных кабинетов маркетплейсов по
     API в гугл-облако
-  socialImage: /images/img-placeholder.svg
+  socialImage: /images/general-and-content.svg
   type: Seo
   addTitleSuffix: false
 type: PostFeedLayout
