@@ -92,7 +92,7 @@ sections:
     type: PricingSection
 seo:
   metaTitle: Чекер | Цены
-  metaDescription: This is the pricing page built with Netlify Create.
+  metaDescription: Тарифные планы
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
