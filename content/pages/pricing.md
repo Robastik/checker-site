@@ -93,7 +93,7 @@ sections:
 seo:
   metaTitle: Чекер | Цены
   metaDescription: Тарифные планы
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/just-opened-start-tarif.jpeg
   type: Seo
 type: PageLayout
 ---
