@@ -95,5 +95,6 @@ seo:
   metaDescription: Тарифные планы
   socialImage: /images/just-opened-start-tarif.jpeg
   type: Seo
+  addTitleSuffix: false
 type: PageLayout
 ---
