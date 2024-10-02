@@ -7,7 +7,7 @@ excerpt: Описание особенностей реализации выгр
 featuredImage:
   type: ImageBlock
   url: /images/main-pic-notes-for-uploads.svg
-  altText: Контрольная панель чекера
+  altText: Особенности реализации выгрузок
   elementId: ''
   styles:
     self:
