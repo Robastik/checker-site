@@ -6,7 +6,7 @@ author: content/data/person1.json
 excerpt: Общие особенности выгрузок Озон →
 featuredImage:
   type: ImageBlock
-  url: /images/main-pic-notes-for-uploads.svg
+  url: /images/ozone-marketplace-general-features.svg
   altText: Особенности реализации выгрузок
   elementId: ''
   styles:
