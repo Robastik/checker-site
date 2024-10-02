@@ -3,9 +3,7 @@ type: PostLayout
 title: Примечания к выгрузкам
 date: '2024-10-01'
 author: content/data/person1.json
-excerpt: >-
-  Панель управления чекера - это та гугл-таблица, которую нужно скопировать в
-  самом начале. На листах этой гугл-таблицы расположено все управление чекером →
+excerpt: Описание особенностей реализации выгрузок →
 featuredImage:
   type: ImageBlock
   url: /images/control-panel-main.jpeg
