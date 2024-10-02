@@ -1,7 +1,7 @@
 ---
 type: PostLayout
 title: Выгрузки Озон
-date: '2024-10-01'
+date: ''
 author: content/data/person1.json
 excerpt: Описание особенностей реализации выгрузок →
 featuredImage:
