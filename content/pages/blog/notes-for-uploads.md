@@ -25,7 +25,7 @@ seo:
   metaTitle: Примечания к выгрузкам
   metaDescription: Особенности реализации
   addTitleSuffix: false
-  socialImage: /images/control-panel-main.jpeg
+  socialImage: /images/main-pic-notes-for-uploads.svg
   metaTags: []
 colors: bg-light-fg-dark
 styles:
