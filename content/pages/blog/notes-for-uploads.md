@@ -23,7 +23,7 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: Примечания к выгрузкам
-  metaDescription: 'Настройка, запуск и контроль результатов выгрузок ЛК по API'
+  metaDescription: Особенности реализации
   addTitleSuffix: false
   socialImage: /images/control-panel-main.jpeg
   metaTags: []
