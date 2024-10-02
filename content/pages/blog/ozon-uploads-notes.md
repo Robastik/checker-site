@@ -22,7 +22,7 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: Примечания к выгрузкам
+  metaTitle: Особенности выгрузок Озон
   metaDescription: Особенности реализации
   addTitleSuffix: false
   socialImage: /images/main-pic-notes-for-uploads.svg
