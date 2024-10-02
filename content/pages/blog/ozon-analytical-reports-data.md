@@ -1,7 +1,7 @@
 ---
 type: PostLayout
 title: Озон → Аналитические отчёты → Данные аналитики
-date: '2024-10-01'
+date: ''
 author: content/data/person1.json
 excerpt: Описание особенностей реализации выгрузок →
 featuredImage:
