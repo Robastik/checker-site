@@ -25,7 +25,7 @@ seo:
   metaTitle: Озон → Аналитические отчёты → Данные аналитики
   metaDescription: Особенности реализации
   addTitleSuffix: false
-  socialImage: /images/main-pic-notes-for-uploads.svg
+  socialImage: /images/ozon-uploads-analytical-reports-data.svg
   metaTags: []
 colors: bg-light-fg-dark
 styles:
