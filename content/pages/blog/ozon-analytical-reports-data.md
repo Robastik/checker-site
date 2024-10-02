@@ -44,11 +44,44 @@ styles:
 
 В каждую строку добавлена дата из *timestamp*.
 
-В reportCreateDateTime находится время создания отчета.
+В *reportCreateDateTime* находится время создания отчета.
 
-В каждой строке добавлены параметры запроса dateFrom и dateTo.
+В каждой строке добавлены параметры запроса *dateFrom* и *dateTo*.
 
+Значения метрик из массива *totals* сохранены в полях соответствующих названиям метрик с префиксом *total*. Например, *totals.hits\_tocart\_search* сохраняется в *totalHits\_tocart\_search*.
 
+Массив *dimensions* развернут по названиям в соответствии с *id* и соответствующим им *name*.
+
+Массив *metrics* также развернут по названиям.
+
+Пример развернутой структуры данных:
+
+| field name                 | type      |
+| -------------------------- | --------- |
+| session\_view\_pdp         | INTEGER   |
+| session\_view\_search      | INTEGER   |
+| hits\_view                 | INTEGER   |
+| hits\_tocart\_pdp          | INTEGER   |
+| totalHits\_tocart\_search  | INTEGER   |
+| name1                      | STRING    |
+| day                        | DATE      |
+| name0                      | STRING    |
+| dateTo                     | DATE      |
+| hits\_view\_pdp            | INTEGER   |
+| timestamp                  | TIMESTAMP |
+| sku                        | INTEGER   |
+| totalHits\_view            | INTEGER   |
+| totalHits\_view\_pdp       | INTEGER   |
+| totalHits\_tocart\_pdp     | INTEGER   |
+| totalSession\_view\_pdp    | INTEGER   |
+| dateFrom                   | DATE      |
+| totalHits\_view\_search    | INTEGER   |
+| totalHits\_tocart          | INTEGER   |
+| reportCreateDateTime       | TIMESTAMP |
+| hits\_tocart               | INTEGER   |
+| hits\_tocart\_search       | INTEGER   |
+| hits\_view\_search         | INTEGER   |
+| totalSession\_view\_search | INTEGER   |
 
 ##### Дальше
 
