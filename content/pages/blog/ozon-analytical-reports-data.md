@@ -6,7 +6,7 @@ author: content/data/person1.json
 excerpt: Озон → Аналитические отчёты → Данные аналитики
 featuredImage:
   type: ImageBlock
-  url: /images/main-pic-notes-for-uploads.svg
+  url: /images/ozon-uploads-analytical-reports-data.svg
   altText: Озон → Аналитические отчёты → Данные аналитики
   elementId: ''
   styles:
