@@ -6,7 +6,7 @@ author: content/data/person1.json
 excerpt: Описание особенностей реализации выгрузок →
 featuredImage:
   type: ImageBlock
-  url: /images/control-panel-main.jpeg
+  url: /images/main-pic-notes-for-uploads.svg
   altText: Контрольная панель чекера
   elementId: ''
   styles:
