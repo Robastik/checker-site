@@ -7,7 +7,7 @@ excerpt: Общие особенности выгрузок Озон →
 featuredImage:
   type: ImageBlock
   url: /images/ozone-marketplace-general-features.svg
-  altText: Особенности реализации выгрузок
+  altText: Особенности реализации выгрузок Озон
   elementId: ''
   styles:
     self:
