@@ -25,7 +25,7 @@ seo:
   metaTitle: Выгрузки Озон
   metaDescription: Особенности реализации
   addTitleSuffix: false
-  socialImage: /images/main-pic-notes-for-uploads.svg
+  socialImage: /images/ozone-marketplace-general-features.svg
   metaTags: []
 colors: bg-light-fg-dark
 styles:
