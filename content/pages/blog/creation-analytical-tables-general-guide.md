@@ -38,6 +38,8 @@ styles:
 
 2.  Платформа Гугл
 
+Сторонние сервисы позволяют использовать данные из BigQuery практически где угодно: в [Excel ](https://learn.microsoft.com/en-us/power-query/connectors/google-bigquery#connect-to-google-bigquery-data-from-power-query-desktop)через надстройку Power Query, в [Power BI](https://learn.microsoft.com/en-us/power-query/connectors/google-bigquery#connecting-to-google-bigquery-in-power-bi-desktop), в [Tableau ](https://www.tableau.com/solutions/workbook/explore-your-big-data-cloud)и огромном количестве [других](https://console.cloud.google.com/bigquery/partner-center).
+
 
 
 ##### Дальше
