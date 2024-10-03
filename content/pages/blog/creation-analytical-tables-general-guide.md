@@ -7,7 +7,7 @@ excerpt: Общие подходы и порядок создания анали
 featuredImage:
   type: ImageBlock
   url: /images/control-panel-main.jpeg
-  altText: Контрольная панель чекера
+  altText: Создание аналитических таблиц
   elementId: ''
   styles:
     self:
