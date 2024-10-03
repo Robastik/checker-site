@@ -42,6 +42,16 @@ styles:
 
 
 
+https\://cloud.google.com/bigquery/docs/connected-sheets
+
+
+
+https\://cloud.google.com/bigquery/docs/visualize-looker-studio
+
+
+
+Gemini data insights
+
 ##### Дальше
 
 [Лист **Параметры**](/blog/parameters-list-control-panel/)
