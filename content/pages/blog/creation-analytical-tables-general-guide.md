@@ -23,7 +23,7 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: Создание аналитических таблиц
-  metaDescription: 'Настройка, запуск и контроль результатов выгрузок ЛК по API'
+  metaDescription: Общие подходы и порядок создания аналитических таблиц
   addTitleSuffix: false
   socialImage: /images/control-panel-main.jpeg
   metaTags: []
