@@ -42,13 +42,9 @@ styles:
 
 
 
-https\://cloud.google.com/bigquery/docs/connected-sheets
+<https://cloud.google.com/bigquery/docs/connected-sheets>
 
-
-
-https\://cloud.google.com/bigquery/docs/visualize-looker-studio
-
-
+<https://cloud.google.com/bigquery/docs/visualize-looker-studio>
 
 Gemini data insights
 
