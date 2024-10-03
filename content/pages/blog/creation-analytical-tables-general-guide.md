@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: Контрольная панель чекера
+title: Создание аналитических таблиц
 date: '2024-10-03'
 author: content/data/person1.json
 excerpt: >-
