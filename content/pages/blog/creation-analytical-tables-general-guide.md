@@ -40,11 +40,11 @@ styles:
 
 Сторонние сервисы позволяют использовать данные из BigQuery практически где угодно: в [Excel ](https://learn.microsoft.com/en-us/power-query/connectors/google-bigquery#connect-to-google-bigquery-data-from-power-query-desktop)через надстройку Power Query, в [Power BI](https://learn.microsoft.com/en-us/power-query/connectors/google-bigquery#connecting-to-google-bigquery-in-power-bi-desktop), в [Tableau ](https://www.tableau.com/solutions/workbook/explore-your-big-data-cloud)и огромном количестве [других](https://console.cloud.google.com/bigquery/partner-center).
 
+Отраслевым стандартом в индустрии маркетплейсов стали [гугл-таблицы](https://cloud.google.com/bigquery/docs/connected-sheets). Поэтому в дальнейшем этому направлению будет уделено основное внимание.
 
+Бесплатный облачный BI-визуализатор [Лукер](https://cloud.google.com/bigquery/docs/visualize-looker-studio) отлично дополняет возможности гугл-таблиц. 
 
-<https://cloud.google.com/bigquery/docs/connected-sheets>
-
-<https://cloud.google.com/bigquery/docs/visualize-looker-studio>
+[Google Apps Script](https://developers.google.com/apps-script/) автоматизирует все гугл-сервисы и интегрирует их со сторонними приложениями. 
 
 Gemini data insights
 
