@@ -9,7 +9,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Сервис временно работает бесплатно
+    subtitle: Тарифные планы
     plans:
       - title: Старт
         price: '3000'
@@ -97,4 +97,5 @@ seo:
   type: Seo
   addTitleSuffix: false
 type: PageLayout
+isDraft: false
 ---
