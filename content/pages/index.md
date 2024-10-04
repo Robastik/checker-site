@@ -204,7 +204,7 @@ sections:
     actions:
       - label: Подробнее
         altText: ''
-        url: /
+        url: /blog/detailed-profits-google-platform/
         showIcon: false
         icon: arrowRight
         iconPosition: right
