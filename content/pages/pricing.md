@@ -90,6 +90,10 @@ sections:
       subtitle:
         textAlign: center
     type: PricingSection
+    badge:
+      type: Badge
+      label: This is a badge
+      color: text-primary
 seo:
   metaTitle: Чекер | Цены
   metaDescription: Тарифные планы
