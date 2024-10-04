@@ -7,7 +7,7 @@ excerpt: Решение на гугл-платформе →
 featuredImage:
   type: ImageBlock
   url: /images/control-panel-main.jpeg
-  altText: Создание аналитических таблиц
+  altText: Решение на гугл-платформе
   elementId: ''
   styles:
     self:
