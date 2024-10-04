@@ -46,9 +46,7 @@ styles:
 
 [Гугл-скрипты](https://developers.google.com/apps-script/) автоматизируют все гугл-сервисы: гугл-почту, гугл-диск, гугл-календарь, гугл-чат, гугл-видеоконференцию и [огромное количество других](https://about.google/intl/ru/products/). В связке со сторонними сервисами возможности гугл-платформы становятся просто безграничными. Например, гугл-скрипты легко и просто реализуют [телеграм-ботов](https://habr.com/ru/articles/788206/). Это позволяет быстро и часто бесплатно реализовывать любые задачи бизнеса на маркетплейсах.
 
-[Гугл-ИИ Gemini](https://cloud.google.com/bigquery/docs/data-insights) уже заточен на работу с гугл-платформой, он идеально оптимизирован для [поиска инсайтов](https://cloud.google.com/bigquery/docs/data-insights) в хранящихся в BigQuery данных. Как и все подобные технологии, он [анализирует текст, изображения, аудио и видео](https://ai.google.dev/gemini-api/docs/models/gemini), что позволяет автоматизировать работу с карточками, и не только со своими. Конечно, есть и возможность запустить [чат-бота](https://extensions.dev/blogs/chatbot-with-gemini-firebase-extension) для общения с покупателями.
-
-
+[Гугл-ИИ Gemini](https://cloud.google.com/bigquery/docs/data-insights) уже [заточен на работу с гугл-платформой](https://cloud.google.com/gemini/docs/overview), он идеально оптимизирован для [поиска инсайтов](https://cloud.google.com/bigquery/docs/data-insights) в хранящихся в BigQuery данных. Как и все подобные технологии, он [анализирует текст, изображения, аудио и видео](https://ai.google.dev/gemini-api/docs/models/gemini), что позволяет автоматизировать работу с карточками, и не только со своими. Конечно, есть и возможность запустить [чат-бота](https://extensions.dev/blogs/chatbot-with-gemini-firebase-extension) для общения с покупателями.
 
 ##### Дальше
 
