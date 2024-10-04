@@ -48,6 +48,8 @@ styles:
 
 [Гугл-ИИ Gemini](https://cloud.google.com/bigquery/docs/data-insights) уже заточен на работу с гугл-платформой, он идеально оптимизирован для [поиска инсайтов](https://cloud.google.com/bigquery/docs/data-insights) в хранящихся в BigQuery данных. Как и все подобные технологии, он [анализирует текст, изображения, аудио и видео](https://ai.google.dev/gemini-api/docs/models/gemini), что позволяет автоматизировать работу с карточками, и не только со своими. Конечно, есть и возможность запустить [чат-бота](https://extensions.dev/blogs/chatbot-with-gemini-firebase-extension) для общения с покупателями.
 
+
+
 ##### Дальше
 
 [Лист **Параметры**](/blog/parameters-list-control-panel/)
