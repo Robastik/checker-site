@@ -3,7 +3,7 @@ type: PostLayout
 title: Решение на гугл-платформе
 date: '2024-10-03'
 author: content/data/person1.json
-excerpt: Общие подходы и порядок создания аналитических таблиц →
+excerpt: Решение на гугл-платформе →
 featuredImage:
   type: ImageBlock
   url: /images/control-panel-main.jpeg
