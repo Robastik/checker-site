@@ -34,9 +34,10 @@ seo:
   metaTitle: Документация выгрузки ВБ Озон Мой склад mpStats по API
   metaDescription: >-
     Справочная информация для выгрузки данных личных кабинетов маркетплейсов по
-    API в таблицу гугл
-  socialImage: /images/img-placeholder.svg
+    API в гугл-облако
+  socialImage: /images/general-and-content.svg
   type: Seo
+  addTitleSuffix: false
 type: PostFeedLayout
 bottomSections: []
 postFeed:

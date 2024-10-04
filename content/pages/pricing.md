@@ -91,9 +91,10 @@ sections:
         textAlign: center
     type: PricingSection
 seo:
-  metaTitle: Pricing - Demo site
-  metaDescription: This is the pricing page built with Netlify Create.
-  socialImage: /images/main-hero.jpg
+  metaTitle: Чекер | Цены
+  metaDescription: Тарифные планы
+  socialImage: /images/just-opened-start-tarif.jpeg
   type: Seo
+  addTitleSuffix: false
 type: PageLayout
 ---
