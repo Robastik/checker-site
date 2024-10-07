@@ -64,8 +64,8 @@ styles:
 
 ##### Дальше
 
-[Лист **Параметры**](/blog/parameters-list-control-panel/)
+
 
 ##### Назад
 
-[Ежедневная выгрузка ЛК по API](/blog/everyday-upload-turn-on/)
+[Лист **Параметры**](/blog/parameters-list-control-panel/)
