@@ -38,12 +38,14 @@ styles:
 
 По следующим ссылкам расположены пояснения по сделанным дополнениям.
 
-Озон
+[Озон](/blog/ozon-uploads-notes/)
 
-    → Аналитические отчёты → Данные аналитики
+    [→ Аналитические отчёты → Данные аналитики](/blog/ozon-analytical-reports-data/)
 
 ##### Дальше
 
+[Выгрузки Озон](/blog/ozon-uploads-notes/)
+
 ##### Назад
 
-[Лист **Параметры**](/blog/parameters-list-control-panel/)
+[Создание аналитических таблиц](/blog/creation-analytical-tables-general-guide/)
