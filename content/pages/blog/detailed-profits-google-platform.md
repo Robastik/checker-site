@@ -6,7 +6,7 @@ author: content/data/person1.json
 excerpt: Решение на гугл-платформе →
 featuredImage:
   type: ImageBlock
-  url: /images/control-panel-main.jpeg
+  url: /images/google-platform-main-pic.svg
   altText: Решение на гугл-платформе
   elementId: ''
   styles:
