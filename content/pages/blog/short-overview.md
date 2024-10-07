@@ -71,4 +71,14 @@ author: content/data/person1.json
 
    [Лист **Параметры**](/blog/parameters-list-control-panel/) *Функции и организация данных*
 
-*Построение аналитическх таблиц Общий подход и порядок действий*
+[*Создание аналитическх таблиц*](/blog/creation-analytical-tables-general-guide/) *Общий подход и порядок действий*
+
+[Примечания к выгрузкам](/blog/notes-for-uploads/) *Особенности реализации*
+
+   [Озон ](/blog/ozon-uploads-notes/)*Примечание к выгрузкам Озон*
+      [Озон → Аналитические отчёты → Данные аналитики](/blog/ozon-analytical-reports-data/)
+
+   
+
+   
+
