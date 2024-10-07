@@ -76,9 +76,9 @@ author: content/data/person1.json
 [Примечания к выгрузкам](/blog/notes-for-uploads/) *Особенности реализации*
 
    [Озон ](/blog/ozon-uploads-notes/)*Примечание к выгрузкам Озон*
+
       [Озон → Аналитические отчёты → Данные аналитики](/blog/ozon-analytical-reports-data/)
 
    
 
    
-
