@@ -87,4 +87,4 @@ styles:
 
 ##### Назад
 
-[Лист **Параметры**](/blog/parameters-list-control-panel/)
+[Выгрузки Озон](/blog/ozon-uploads-notes/)

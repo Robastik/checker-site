@@ -168,8 +168,8 @@ styles:
 
 ##### Дальше
 
-Примечания к выгрузкам
+[Создание аналитических таблиц](/blog/creation-analytical-tables-general-guide/)
 
 ##### Назад
 
-[Ежедневная выгрузка ЛК по API](/blog/everyday-upload-turn-on/)
+[Контрольная панель чекера](/blog/checker-control-panel/)

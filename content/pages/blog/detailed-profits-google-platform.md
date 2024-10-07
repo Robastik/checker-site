@@ -3,10 +3,10 @@ type: PostLayout
 title: Решение на гугл-платформе
 date: '2024-10-03'
 author: content/data/person1.json
-excerpt: Решение на гугл-платформе →
+excerpt: 'Решение на гугл-платформе: обзор  возможностей →'
 featuredImage:
   type: ImageBlock
-  url: /images/control-panel-main.jpeg
+  url: /images/google-platform-main-pic.svg
   altText: Решение на гугл-платформе
   elementId: ''
   styles:
@@ -22,10 +22,10 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: Создание аналитических таблиц
-  metaDescription: Общие подходы и порядок создания аналитических таблиц
+  metaTitle: Решение на гугл-платформе
+  metaDescription: Обзор возможностей
   addTitleSuffix: false
-  socialImage: /images/control-panel-main.jpeg
+  socialImage: /images/google-platform-main-pic.svg
   metaTags: []
 colors: bg-light-fg-dark
 styles:
@@ -50,8 +50,8 @@ styles:
 
 ##### Дальше
 
-[Лист **Параметры**](/blog/parameters-list-control-panel/)
+[Начало работы с чекером](/blog/beginning-of-use/)
 
 ##### Назад
 
-[Ежедневная выгрузка ЛК по API](/blog/everyday-upload-turn-on/)
+[Общие сведения и содержание справки чекера](/blog/short-overview/)
