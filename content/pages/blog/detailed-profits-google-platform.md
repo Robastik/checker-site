@@ -23,7 +23,7 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: Решение на гугл-платформе
-  metaDescription: Общие подходы и порядок создания аналитических таблиц
+  metaDescription: Обзор возможностей
   addTitleSuffix: false
   socialImage: /images/control-panel-main.jpeg
   metaTags: []
