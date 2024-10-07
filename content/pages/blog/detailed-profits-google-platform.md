@@ -50,8 +50,8 @@ styles:
 
 ##### Дальше
 
-[Лист **Параметры**](/blog/parameters-list-control-panel/)
+[Начало работы с чекером](/blog/beginning-of-use/)
 
 ##### Назад
 
-[Ежедневная выгрузка ЛК по API](/blog/everyday-upload-turn-on/)
+[Общие сведения и содержание справки чекера](/blog/short-overview/)
