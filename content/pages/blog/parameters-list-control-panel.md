@@ -172,3 +172,4 @@ styles:
 
 ##### Назад
 
+[Контрольная панель чекера](/blog/checker-control-panel/)
