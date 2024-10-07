@@ -25,7 +25,7 @@ seo:
   metaTitle: Решение на гугл-платформе
   metaDescription: Обзор возможностей
   addTitleSuffix: false
-  socialImage: /images/control-panel-main.jpeg
+  socialImage: /images/google-platform-main-pic.svg
   metaTags: []
 colors: bg-light-fg-dark
 styles:
