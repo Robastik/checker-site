@@ -74,6 +74,10 @@ styles:
 
 ![](/images/test-unload-project-view.png)
 
+Клик на трех точках у звездочки откроет меню. Выберите в нем **Обновить содержимое** (*Refresh Contents*):
+
+
+
 Клик на треугольнике откроет структуру проекта данных:
 
 ![](/images/test-unload-bq-navigation-panel.PNG)
