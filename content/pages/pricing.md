@@ -35,7 +35,7 @@ sections:
             borderRadius: large
         type: PricingPlan
       - title: Профи
-        price: '5000'
+        price: '6000'
         details: в месяц
         description: |
           Растущим селлерам с несколькими ЛК
