@@ -35,7 +35,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Лучшее отраслевое решение
+      label: оцифровка бизнеса
       color: text-primary
       type: Badge
     elementId: ''
