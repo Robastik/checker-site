@@ -66,17 +66,8 @@ sections:
       режиме в любое время.
 
 
-      Для разработки гугл-таблиц и расчетов потребуется специалист по
-      гугл-таблицам или SQL. Специалисту нужно описание расчета от финансиста
-      или экономиста.
-
-
-      Готовый расчет или таблица не требуют затрат для ежедневного
-      использования. Количество и сложность таблиц не ограничены.
-
-
-      Выгруженные данные также доступны без дополнительной подготовки в Excel,
-      Power BI, Google Looker и других сервисах.
+      Выгруженные данные доступны без дополнительной подготовки в Excel, Power
+      BI, Google Looker и других сервисах.
 
 
       Подробности в [справочной документации](/blog/short-overview/) и [чате
@@ -231,48 +222,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Магия экосистемы Гугл
-    images:
-      - url: /images/mail.png
-        altText: Empathy logo
-        type: ImageBlock
-      - type: ImageBlock
-        url: /images/analitycs.png
-        altText: Image alt text placeholder
-        elementId: ''
-        styles:
-          self:
-            borderRadius: medium
-      - url: /images/maps.png
-        altText: Wellster logo
-        type: ImageBlock
-      - url: /images/assistant.png
-        altText: Vise logo
-        type: ImageBlock
-      - url: /images/disk.png
-        altText: Telus logo
-        type: ImageBlock
-      - url: /images/tables.png
-        altText: Contentful logo
-        type: ImageBlock
-      - url: /images/marketing.png
-        altText: Sanity logo
-        type: ImageBlock
-      - url: /images/cloud.png
-        altText: Rangle logo
-        type: ImageBlock
-    motion: move-to-left
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: ImageGallerySection
-    badge:
-      type: Badge
-      label: платформа для развития
-      color: text-primary
   - title: Divider
     colors: bg-light-fg-dark
     styles:
