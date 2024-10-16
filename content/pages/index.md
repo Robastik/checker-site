@@ -9,7 +9,7 @@ sections:
       type: TitleBlock
     subtitle: в облако Гугл
     text: |
-      для любого масштаба бизнеса
+      для аналитики
     actions:
       - label: Начать
         altText: Начало работы с чекером
