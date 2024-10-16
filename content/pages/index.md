@@ -7,7 +7,7 @@ sections:
       text: Выгрузка по API данных из личного кабинета селлера Вайлдберриз и Озон
       color: text-dark
       type: TitleBlock
-    subtitle: в облако Гугл
+    subtitle: в облако Гугл для аналитики
     text: |
       для любого масштаба бизнеса
     actions:
