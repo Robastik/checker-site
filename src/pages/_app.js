@@ -19,7 +19,7 @@ const App = ({ Component, pageProps }) => {
               webvisor:true
          });
          `}
-      />
+      </Script>
       <Script
         src="https://www.googletagmanager.com/gtag/js?id=G-4YLD4C59R1"
         strategy="afterInteractive"
