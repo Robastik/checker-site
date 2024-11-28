@@ -66,6 +66,8 @@ CASE   
 END AS glyph
 ```
 
+
+
 Создадим колонку с разными цветами для меток складов:
 
 ```
@@ -77,15 +79,42 @@ CASE   
 END AS background
 ```
 
+
+
 Сделаем колонку с текстом для всплывающей надписи, в которой объединим название склада и его адрес:
 
 ```
 CONCAT(name,'\n',address) as title
 ```
 
+
+
 Выгружать будем данные не за все даты, а только за последнюю выгруженную дату. Для этого отбираем таблицы выгруженные за последние 7 дней:
 
-SELECT   \*, \_TABLE\_SUFFIX  FROM   \`imposing-timer-422110-h5.wb\_api\_ordersFBS.Список складов ВБ\_\*\`  WHERE  DATE(\_TABLE\_SUFFIX) > DATE\_ADD(CURRENT\_DATE(), INTERVAL -7 DAY)
+```
+SELECT   
+ *, _TABLE_SUFFIX  
+FROM   
+ `imposing-timer-422110-h5.wb_api_ordersFBS.Список складов ВБ_*`  
+WHERE  
+ DATE(_TABLE_SUFFIX) > DATE_ADD(CURRENT_DATE(), INTERVAL -7 DAY)
+```
+
+
 
 и из них выбираем самую свежую:
+
+```
+SELECT 
+ *  
+FROM 
+ RecentTablesFBS  
+WHERE 
+ _TABLE_SUFFIX = (
+   SELECT 
+    MAX(_TABLE_SUFFIX)     
+   FROM 
+    RecentTablesFBS  
+ )
+```
 
