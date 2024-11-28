@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: Копирование гугл-таблицы
+title: Склады ВБ на карте
 date: '2024-09-03'
 author: content/data/person1.json
 excerpt: Инструкция для копирования файла гугл-таблицы →
