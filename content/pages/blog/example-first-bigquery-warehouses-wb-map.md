@@ -114,6 +114,9 @@ WHERE
 
 Для этого выполняем запрос кнпкой **▶️RUN** и в выпадающем списке выбираем сохранение в Google Sheets:
 
-![](/images/save-query-results-google-sheets.PNG)Во всплывающем окне получаем название созданной гугл-таблицы кликаем на ссылку и открываем ее:
+![](/images/save-query-results-google-sheets.PNG)
 
-![](/images/name-saved-sheet-result-query.PNG)
+Во всплывающем окне получаем название созданной гугл-таблицы кликаем на ссылку и открываем ее:![](/images/name-saved-sheet-result-query.PNG)
+
+Текст запроса полностью находится в Настройке подключения:
+
