@@ -89,3 +89,9 @@ CONCAT(name,'\n',address) as title
 
 
 
+Полностью запрос выглядит так:
+
+
+
+
+
