@@ -1,7 +1,7 @@
 ---
 type: PostLayout
 title: Склады ВБ на карте
-date: '2024-09-03'
+date: '2024-09-02'
 author: content/data/person1.json
 excerpt: Инструкция для копирования файла гугл-таблицы →
 featuredImage:
