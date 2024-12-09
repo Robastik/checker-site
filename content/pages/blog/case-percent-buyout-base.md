@@ -23,7 +23,7 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: Процент выкупа
-  metaDescription: Как устроена форма чекера с ключами API
+  metaDescription: Расчет процента выкупа заказанных товаров на маркетплейсе
   addTitleSuffix: false
   metaTags: []
 colors: bg-light-fg-dark
