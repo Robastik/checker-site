@@ -22,7 +22,7 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: Заполняем чекер ключами API
+  metaTitle: Процент выкупа
   metaDescription: Как устроена форма чекера с ключами API
   addTitleSuffix: false
   metaTags: []
