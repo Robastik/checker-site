@@ -1,7 +1,7 @@
 ---
 type: PostLayout
 title: Процент выкупа
-date: '2024-09-09'
+date: '2024-12-09'
 author: content/data/person1.json
 excerpt: Подробное объяснение порядка заполнения ключей API для использования чекера →
 featuredImage:
