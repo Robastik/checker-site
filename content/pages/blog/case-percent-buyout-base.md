@@ -26,6 +26,7 @@ seo:
   metaDescription: Расчет процента выкупа заказанных товаров на маркетплейсе
   addTitleSuffix: false
   metaTags: []
+  socialImage: /images/percentage-of-purchased-orders-KPDV.svg
 colors: bg-light-fg-dark
 styles:
   self:
