@@ -7,7 +7,7 @@ excerpt: Подробное объяснение порядка заполнен
 featuredImage:
   type: ImageBlock
   url: /images/percentage-of-purchased-orders-KPDV.svg
-  altText: Ключи API чекера
+  altText: Расчет процента выкупа ВБ Озон
   elementId: ''
   styles:
     self:
