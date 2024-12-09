@@ -3,7 +3,7 @@ type: PostLayout
 title: Процент выкупа
 date: '2024-12-09'
 author: content/data/person1.json
-excerpt: Подробное объяснение порядка заполнения ключей API для использования чекера →
+excerpt: Пример расчета выкупа заказанных товаров на Вайлдберриз →
 featuredImage:
   type: ImageBlock
   url: /images/percentage-of-purchased-orders-KPDV.svg
