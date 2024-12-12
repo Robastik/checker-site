@@ -65,5 +65,4 @@ styles:
 
 [Тест выгрузки ЛК по API](/blog/first-manual-unloading-bigquery/)
 
-
-[Оглавление](/table-of-contents)
+[Оглавление](/blog/table-of-contents)
