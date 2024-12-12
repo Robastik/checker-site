@@ -55,8 +55,8 @@ styles:
 
       [Озон → Аналитические отчёты → Данные аналитики](/blog/ozon-analytical-reports-data/)
 
-   
 [Примеры](/blog/examples/) *Приемы построения аналитических таблиц*
    
-   [Процент выкупа](/blog/case-percent-buyout-base/)*Расчет процента выкупа заказов*
-      [Приложение](/blog/case-percent-buyout-base-attachment/)*Код SQL*
+   [Процент выкупа ](/blog/case-percent-buyout-base/)*Расчет процента выкупа заказов*
+
+      [Приложение ](/blog/case-percent-buyout-base-attachment/)*Код SQL*
