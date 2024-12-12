@@ -80,6 +80,6 @@ ORDER BY
 
 ##### Назад
 
-[Начало работы](/blog/beginning-of-use/)
+[Процент выкупа](/blog/case-percent-buyout-base/)
 
 [Оглавление](/blog/table-of-contents)
