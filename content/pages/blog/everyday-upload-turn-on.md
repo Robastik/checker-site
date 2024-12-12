@@ -55,7 +55,7 @@ styles:
 
 Навести курсор на строку с **watchChecker** и кликнуть на появившиеся три точки. В открывшемся меню кликнуть **Удалить триггер:**
 
-****![](/images/everyday-upload-triggers-delete.png)
+\*\*\*\*![](/images/everyday-upload-triggers-delete.png)
 
 ##### Дальше
 
@@ -64,3 +64,6 @@ styles:
 ##### Назад
 
 [Тест выгрузки ЛК по API](/blog/first-manual-unloading-bigquery/)
+
+
+[Оглавление](/table-of-contents)
