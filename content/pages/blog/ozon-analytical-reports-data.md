@@ -2,7 +2,6 @@
 type: PostLayout
 title: Озон → Аналитические отчёты → Данные аналитики
 date: '2024-10-02'
-author: content/data/person1.json
 excerpt: Озон → Аналитические отчёты → Данные аналитики
 featuredImage:
   type: ImageBlock
