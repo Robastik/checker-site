@@ -38,31 +38,33 @@ WITH
 orders AS(  
   /*Получаем заказы*/  
   SELECT DISTINCT  
-  srid,  
-  DATE(date) AS orderDate  
+    srid 
   FROM   
-  `sublime-triode-422515-k3.wb_api_statistics.Заказы_*`  
+    /*Вставить id своего проекта вместо test-project-my-new*/
+    `test-project-my-new.wb_api_statistics.Заказы_*`  
   WHERE  
-  DATE(SPLIT(_TABLE_SUFFIX, '_')[0]) >= DATE_SUB(CURRENT_DATE(), INTERVAL 14 DAY)  
+    /*На какую дату считаем процент выкупа*/
+    DATE(SPLIT(_TABLE_SUFFIX, '_')[0]) >= DATE_SUB(CURRENT_DATE(), INTERVAL 14 DAY)  
   AND  
-  DATE(date) = DATE_SUB(CURRENT_DATE(), INTERVAL 14 DAY)  
+    /*Обрабатываем только необходимые таблицы для экономии лимита*/
+    DATE(date) = DATE_SUB(CURRENT_DATE(), INTERVAL 14 DAY)  
   AND  
-  orderType = 'Клиентский'
+    /*Поле отличает заказы от возвратов*/
+    orderType = 'Клиентский'
 )
+/*Получаем продажи*/
 SELECT DISTINCT
-DATE(sales.date) AS salesDate,
-COUNT(sales.date) AS salesCount
+  DATE(sales.date) AS salesDate,
+  COUNT(sales.date) AS salesCount
 FROM
-`sublime-triode-422515-k3.wb_api_statistics.Продажи_*` as sales
+  `test-project-my-new.wb_api_statistics.Продажи_*` as sales
 RIGHT JOIN
-orders
+  orders
 ON
-sales.srid = orders.srid
+  /*Только выкупленные заказы*/
+  sales.srid = orders.srid
 WHERE
-DATE(SPLIT(_TABLE_SUFFIX, '_')[0]) > DATE_SUB(CURRENT_DATE(), INTERVAL 15 DAY)
-GROUP BY
-DATE(sales.date)
-ORDER BY salesDate
+  /*Как и для заказов, обрабатываем только необходимые таблицы с продажами для экономии лимита
 ```
 
 ##### Дальше
