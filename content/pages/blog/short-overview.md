@@ -1,5 +1,5 @@
 ---
-title: Общие сведения и содержание
+title: Общие сведения
 slug: short-overview
 date: '2024-08-25'
 excerpt: >-
