@@ -67,5 +67,4 @@ styles:
 
 [Общие сведения и содержание](/blog/short-overview/)
 
-
-[Оглавление](/table-of-contents)
+[Оглавление](/blog/table-of-contents)
