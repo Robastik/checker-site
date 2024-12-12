@@ -70,3 +70,6 @@ styles:
 ##### Назад
 
 [Лист **Параметры**](/blog/parameters-list-control-panel/)
+
+
+[Оглавление](/table-of-contents)
