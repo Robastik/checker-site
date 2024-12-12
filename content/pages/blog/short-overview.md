@@ -25,7 +25,6 @@ styles:
   self:
     flexDirection: row
 type: PostLayout
-author: content/data/person1.json
 ---
 **Чекер** - это сервис для выгрузки по API данных личного кабинета селлера, в том числе ВБ, Озон, Мой склад и MPstats.
 
