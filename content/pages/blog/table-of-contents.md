@@ -51,12 +51,12 @@ styles:
 
 [Примечания к выгрузкам](/blog/notes-for-uploads/) *Особенности реализации*
 
-   [Озон ](/blog/ozon-uploads-notes/)*Примечание к выгрузкам Озон*
+   [Озон](/blog/ozon-uploads-notes/) *Примечание к выгрузкам Озон*
 
       [Озон → Аналитические отчёты → Данные аналитики](/blog/ozon-analytical-reports-data/)
 
 [Примеры](/blog/examples/) *Приемы построения аналитических таблиц*
    
-   [Процент выкупа ](/blog/case-percent-buyout-base/)*Расчет процента выкупа заказов*
+   [Процент выкупа](/blog/case-percent-buyout-base/) *Расчет процента выкупа заказов*
 
-      [Приложение ](/blog/case-percent-buyout-base-attachment/)*Код SQL*
+      [Приложение](/blog/case-percent-buyout-base-attachment/) *Код SQL*
