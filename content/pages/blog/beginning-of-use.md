@@ -2,7 +2,6 @@
 type: PostLayout
 title: Начало работы
 date: '2024-09-02'
-author: content/data/person1.json
 excerpt: >-
   Чек-лист по старту с Чекером: ключи API, настройка гугл-аккаунта и авторизация
   скрипта. Подробнее →
