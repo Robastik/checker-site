@@ -43,10 +43,10 @@ orders AS( 
     /*Вставить id своего проекта вместо test-project-my-new*/
     `test-project-my-new.wb_api_statistics.Заказы_*`  
   WHERE  
-    /*На какую дату считаем процент выкупа*/
+    /*Обрабатываем только необходимые таблицы для экономии лимита*/
     DATE(SPLIT(_TABLE_SUFFIX, '_')[0]) >= DATE_SUB(CURRENT_DATE(), INTERVAL 14 DAY)  
   AND  
-    /*Обрабатываем только необходимые таблицы для экономии лимита*/
+    /*На какую дату считаем процент выкупа*/
     DATE(date) = DATE_SUB(CURRENT_DATE(), INTERVAL 14 DAY)  
   AND  
     /*Поле отличает заказы от возвратов*/
@@ -64,7 +64,14 @@ ON
   /*Только выкупленные заказы*/
   sales.srid = orders.srid
 WHERE
-  /*Как и для заказов, обрабатываем только необходимые таблицы с продажами для экономии лимита
+  /*Обрабатываем только необходимые таблицы с продажами для экономии лимита*/
+  DATE(SPLIT(_TABLE_SUFFIX, '_')[0]) >= DATE_SUB(CURRENT_DATE(), INTERVAL 14 DAY)
+GROUP BY
+  /*Объединяем выкупы по дням*/
+  DATE(sales.date)
+ORDER BY 
+  salesDate
+
 ```
 
 ##### Дальше
