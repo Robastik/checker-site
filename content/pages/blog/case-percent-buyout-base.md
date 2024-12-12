@@ -56,9 +56,9 @@ styles:
 
 Возьмем все заказы всех артикулов в количестве 9072 шт. в конкретный день 25.11.2024 и проследим как они превращаются в продажи, т.е. выкупаются.
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXe6tnu6D3C1vSewczeHVqfwOQRpyQ58i-J-STUwzpsTtMPeWUjUDIaRY05NXUCOTkuFVOF1GelyL3XV1dKWf3SBILs3aN66uj9APicZVqGJBvyCRy3KivesnON0S4duIgq5J6fr?key=uKBFDL5OCaG-A_L1qZnkvtdN)
+<div style="text-align: center">![](/images/purchased-orders-first-case.svg)</div>
 
-Расчет для этой диаграммы и другие использованные расчеты приведены в приложении.
+<div style="text-align: left">Расчет для этой диаграммы и другие использованные расчеты приведены в приложении.</div>
 
 В первый день выкуплено 14 заказов, через день - максимум 1546 шт., в последний день рассматриваемого периода выкуплен 1 заказ. Всего за 14 дней выкуплено 4852 заказа. % выкупа составил 53,5%.
 
@@ -66,7 +66,9 @@ styles:
 
 ### Кейс 2
 
-Двумя неделями ранее, 10.11.2024, получено 20033 заказов. ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeIqe1DkRzsioWf6E25vr_opFSNu5XjqNlNWTKTBBU-scHQs8PGF9sGuIDcCvfo0Dpu7c7A_HKNYPHqPVyufbD94RI6UeuoSvXdXNwqaxjDkVzKE4xuZUxo0C6RHGh7qHnR8QIeVA?key=uKBFDL5OCaG-A_L1qZnkvtdN)
+Двумя неделями ранее, 10.11.2024, получено 20033 заказов. 
+
+<div style="text-align: center">![](/images/purchased-orders-second-case.svg)</div>
 
 Здесь выкупы продолжаются 20 дней. Всего 15757 выкупов. % выкупа 78,7%.
 
@@ -113,8 +115,6 @@ styles:
 5.  Аналитика, основанная на проценте выкупа за последний день, последнюю неделю-две и построенная по отчету за один период не может иметь достоверных результатов.
 
 6.  Вместо процента выкупа в некоторых редких случаях может использоваться прогноз процента выкупа.
-
-
 
 ##### Дальше
 
