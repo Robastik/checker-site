@@ -2,7 +2,6 @@
 type: PostLayout
 title: Процент выкупа
 date: '2024-12-09'
-author: content/data/person1.json
 excerpt: Пример расчета выкупа заказанных товаров на Вайлдберриз →
 featuredImage:
   type: ImageBlock
