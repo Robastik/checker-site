@@ -32,11 +32,11 @@ styles:
 
 ##### Дальше
 
-[Процент выкупа]\(/case-percent-buyout-base/)
+[Процент выкупа](/case-percent-buyout-base/)
 
 ##### Назад
 
-[Примечания к выгрузкам]\(/notes-for-uploads/)
+[Примечания к выгрузкам](/notes-for-uploads/)
 
 [Оглавление](/table-of-contents)
 
