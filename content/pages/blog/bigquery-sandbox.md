@@ -68,5 +68,4 @@ styles:
 
 [Как получить id проекта Big Query](/blog/bigquery-initialization/)
 
-
-[Оглавление](/table-of-contents)
+[Оглавление](/blog/table-of-contents)
