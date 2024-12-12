@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: Общие сведения и содержание
+title: Оглавление
 date: '2024-08-25'
 author: content/data/person1.json
 excerpt: >-
