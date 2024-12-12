@@ -2,7 +2,6 @@
 type: PostLayout
 title: Ежедневная выгрузка ЛК по API
 date: '2024-09-21'
-author: content/data/person1.json
 excerpt: Включаем ежедневную выгрузку ЛК по API →
 featuredImage:
   type: ImageBlock
@@ -56,7 +55,7 @@ styles:
 
 Навести курсор на строку с **watchChecker** и кликнуть на появившиеся три точки. В открывшемся меню кликнуть **Удалить триггер:**
 
-****![](/images/everyday-upload-triggers-delete.png)
+\*\*\*\*![](/images/everyday-upload-triggers-delete.png)
 
 ##### Дальше
 
@@ -65,3 +64,5 @@ styles:
 ##### Назад
 
 [Тест выгрузки ЛК по API](/blog/first-manual-unloading-bigquery/)
+
+[Оглавление](/blog/table-of-contents)

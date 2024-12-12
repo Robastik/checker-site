@@ -2,7 +2,6 @@
 type: PostLayout
 title: Выгрузки Озон
 date: '2024-10-02'
-author: content/data/person1.json
 excerpt: Общие особенности выгрузок Озон →
 featuredImage:
   type: ImageBlock
@@ -47,3 +46,4 @@ styles:
 
 [Примечания к выгрузкам](/blog/notes-for-uploads/)
 
+[Оглавление](/blog/table-of-contents)

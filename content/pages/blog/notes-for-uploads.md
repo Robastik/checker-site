@@ -2,7 +2,6 @@
 type: PostLayout
 title: Примечания к выгрузкам
 date: '2024-10-01'
-author: content/data/person1.json
 excerpt: Описание особенностей реализации выгрузок →
 featuredImage:
   type: ImageBlock
@@ -49,3 +48,5 @@ styles:
 ##### Назад
 
 [Создание аналитических таблиц](/blog/creation-analytical-tables-general-guide/)
+
+[Оглавление](/blog/table-of-contents)

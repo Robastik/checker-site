@@ -2,7 +2,6 @@
 type: PostLayout
 title: Бесплатный и платный тарифы BigQuery
 date: '2024-09-05'
-author: content/data/person1.json
 excerpt: BigQuery - это бесплатно →
 featuredImage:
   type: ImageBlock
@@ -68,3 +67,5 @@ styles:
 ##### Назад
 
 [Как получить id проекта Big Query](/blog/bigquery-initialization/)
+
+[Оглавление](/blog/table-of-contents)

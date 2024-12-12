@@ -2,7 +2,6 @@
 type: PostLayout
 title: Решение на гугл-платформе
 date: '2024-10-03'
-author: content/data/person1.json
 excerpt: 'Решение на гугл-платформе: обзор  возможностей →'
 featuredImage:
   type: ImageBlock
@@ -55,3 +54,5 @@ styles:
 ##### Назад
 
 [Общие сведения и содержание справки чекера](/blog/short-overview/)
+
+[Оглавление](/blog/table-of-contents)
