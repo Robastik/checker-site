@@ -71,5 +71,4 @@ styles:
 
 [Лист **Параметры**](/blog/parameters-list-control-panel/)
 
-
-[Оглавление](/table-of-contents)
+[Оглавление](/blog/table-of-contents)
