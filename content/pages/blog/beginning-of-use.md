@@ -67,3 +67,8 @@ styles:
 ##### Назад
 
 [Общие сведения и содержание](/blog/short-overview/)
+
+
+
+[Оглавление](/table-of-contents)
+
