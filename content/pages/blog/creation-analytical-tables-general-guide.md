@@ -2,7 +2,6 @@
 type: PostLayout
 title: Создание аналитических таблиц
 date: '2024-10-03'
-author: content/data/person1.json
 excerpt: Общие подходы и порядок создания аналитических таблиц →
 featuredImage:
   type: ImageBlock
