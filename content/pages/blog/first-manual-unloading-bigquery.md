@@ -99,5 +99,4 @@ styles:
 
 [Начало работы](/blog/beginning-of-use/)
 
-
-[Оглавление](/table-of-contents)
+[Оглавление](/blog/table-of-contents)
