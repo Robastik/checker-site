@@ -48,3 +48,6 @@ styles:
 ##### Назад
 
 [Создание аналитических таблиц](/blog/creation-analytical-tables-general-guide/)
+
+
+[Оглавление](/table-of-contents)
