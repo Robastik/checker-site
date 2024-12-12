@@ -15,7 +15,7 @@ slug: /examples
 isFeatured: true
 seo:
   type: Seo
-  metaTitle: Содержание справочной документации
+  metaTitle: Примеры построения аналитических таблиц
   metaDescription: Оглавление документации
   socialImage: /images/beginning-of-all-google-workspace.svg
   metaTags: []
