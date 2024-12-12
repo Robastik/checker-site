@@ -88,5 +88,4 @@ styles:
 
 [Выгрузки Озон](/blog/ozon-uploads-notes/)
 
-
-[Оглавление](/table-of-contents)
+[Оглавление](/blog/table-of-contents)
