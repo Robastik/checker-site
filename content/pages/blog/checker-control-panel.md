@@ -66,5 +66,4 @@ styles:
 
 [Ежедневная выгрузка ЛК по API](/blog/everyday-upload-turn-on/)
 
-
-[Оглавление](/table-of-contents)
+[Оглавление](/blog/table-of-contents)
