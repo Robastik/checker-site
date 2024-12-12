@@ -49,5 +49,4 @@ styles:
 
 [Создание аналитических таблиц](/blog/creation-analytical-tables-general-guide/)
 
-
-[Оглавление](/table-of-contents)
+[Оглавление](/blog/table-of-contents)
