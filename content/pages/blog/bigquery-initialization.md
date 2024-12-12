@@ -2,7 +2,6 @@
 type: PostLayout
 title: Как получить id проекта BigQuery
 date: '2024-09-04'
-author: content/data/person1.json
 excerpt: >-
   Инструкция по получению id проекта BigQuery для вставки на лист чекера Ключи
   API →
