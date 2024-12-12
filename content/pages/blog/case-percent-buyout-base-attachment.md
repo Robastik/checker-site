@@ -2,7 +2,7 @@
 type: PostLayout
 title: Процент выкупа
 date: '2024-12-09'
-excerpt: Пример расчета выкупа заказанных товаров на Вайлдберриз →
+excerpt: Код SQL для примера расчета процента выкупа →
 featuredImage:
   type: ImageBlock
   url: /images/percentage-of-purchased-orders-KPDV.svg
