@@ -55,5 +55,4 @@ styles:
 
 [Общие сведения и содержание справки чекера](/blog/short-overview/)
 
-
-[Оглавление](/table-of-contents)
+[Оглавление](/blog/table-of-contents)
