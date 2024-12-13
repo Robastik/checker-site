@@ -6,7 +6,7 @@ excerpt: Код SQL для примера расчета процента вык
 featuredImage:
   type: ImageBlock
   url: /images/percentage-of-purchased-orders-SQL-KPDV.svg
-  altText: Расчет процента выкупа ВБ Озон
+  altText: Приложение SQL к расчету процента выкупа
   elementId: ''
   styles:
     self:
