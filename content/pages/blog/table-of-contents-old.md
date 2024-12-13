@@ -11,7 +11,7 @@ featuredImage:
     self:
       borderRadius: medium
 bottomSections: []
-slug: /table-of-contents
+slug: /table-of-contents-old
 isFeatured: false
 seo:
   type: Seo
