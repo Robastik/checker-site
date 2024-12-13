@@ -2,9 +2,7 @@
 type: PostLayout
 title: Оглавление
 date: '3000-01-01'
-excerpt: >-
-  Чек-лист по старту с Чекером: ключи API, настройка гугл-аккаунта и авторизация
-  скрипта. Подробнее →
+excerpt: Оглавление справочных материалов →
 featuredImage:
   type: ImageBlock
   url: /images/beginning-of-all-google-workspace.svg
