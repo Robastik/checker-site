@@ -10,7 +10,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/table-of-contentst--KPDV.svg
-  altText: Содержание справочных материалов чекера
+  altText: Содержание
   styles:
     self:
       borderRadius: medium
