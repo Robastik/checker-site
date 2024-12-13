@@ -5,7 +5,7 @@ date: '2024-12-09'
 excerpt: Код SQL для примера расчета процента выкупа →
 featuredImage:
   type: ImageBlock
-  url: /images/percentage-of-purchased-orders-KPDV.svg
+  url: /images/percentage-of-purchased-orders-SQL-KPDV.svg
   altText: Расчет процента выкупа ВБ Озон
   elementId: ''
   styles:
