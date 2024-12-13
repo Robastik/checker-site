@@ -2,7 +2,7 @@
 type: PostLayout
 title: Примеры
 date: '2024-12-12'
-excerpt: 'Типовые подходы к построению аналитических таблиц → '
+excerpt: 'Типовые примеры к построению аналитических таблиц → '
 featuredImage:
   type: ImageBlock
   url: /images/general-and-content.svg
