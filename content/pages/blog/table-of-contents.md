@@ -22,7 +22,7 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: Оглавление
-  metaDescription: Чек-лист для запуска чекера
+  metaDescription: Содержание справочных материалов
   addTitleSuffix: false
   socialImage: /images/beginning-of-all-google-workspace.svg
   metaTags: []
