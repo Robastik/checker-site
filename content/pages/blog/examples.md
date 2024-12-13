@@ -6,7 +6,7 @@ excerpt: 'Типовые примеры к построению аналитич
 featuredImage:
   type: ImageBlock
   url: /images/examples--KPDV.svg
-  altText: Содержание справочных материалов чекера
+  altText: Примеры построения аналитических таблиц
   styles:
     self:
       borderRadius: medium
