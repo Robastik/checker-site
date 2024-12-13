@@ -21,7 +21,7 @@ seo:
   type: Seo
   metaTitle: Содержание справочной документации
   metaDescription: Оглавление документации
-  socialImage: /images/beginning-of-all-google-workspace.svg
+  socialImage: /images/table-of-contentst--KPDV.svg
   metaTags: []
 colors: bg-light-fg-dark
 styles:
