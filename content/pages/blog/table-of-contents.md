@@ -2,7 +2,7 @@
 type: PostLayout
 title: Оглавление
 date: '2030-12-31'
-excerpt: Оглавление
+excerpt: Оглавление. Содержание справочной документации →
 featuredImage:
   type: ImageBlock
   url: /images/table-of-contentst--KPDV.svg
