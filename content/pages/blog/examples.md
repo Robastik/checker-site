@@ -17,7 +17,7 @@ seo:
   type: Seo
   metaTitle: Примеры построения аналитических таблиц
   metaDescription: Примеры SQL для аналитических таблиц
-  socialImage: /images/beginning-of-all-google-workspace.svg
+  socialImage: /images/examples--KPDV.svg
   metaTags: []
 colors: bg-light-fg-dark
 styles:
