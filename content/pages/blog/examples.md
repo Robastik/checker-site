@@ -2,11 +2,11 @@
 type: PostLayout
 title: Примеры
 date: '2024-12-12'
-excerpt: 'Типовые подходы к построению аналитических таблиц → '
+excerpt: 'Типовые примеры к построению аналитических таблиц → '
 featuredImage:
   type: ImageBlock
-  url: /images/general-and-content.svg
-  altText: Содержание справочных материалов чекера
+  url: /images/examples--KPDV.svg
+  altText: Примеры построения аналитических таблиц
   styles:
     self:
       borderRadius: medium
@@ -16,8 +16,8 @@ isFeatured: true
 seo:
   type: Seo
   metaTitle: Примеры построения аналитических таблиц
-  metaDescription: Примеры построения аналитических таблиц
-  socialImage: /images/beginning-of-all-google-workspace.svg
+  metaDescription: Примеры SQL для аналитических таблиц
+  socialImage: /images/examples--KPDV.svg
   metaTags: []
 colors: bg-light-fg-dark
 styles:

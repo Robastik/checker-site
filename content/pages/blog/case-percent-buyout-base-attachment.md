@@ -5,8 +5,8 @@ date: '2024-12-09'
 excerpt: Код SQL для примера расчета процента выкупа →
 featuredImage:
   type: ImageBlock
-  url: /images/percentage-of-purchased-orders-KPDV.svg
-  altText: Расчет процента выкупа ВБ Озон
+  url: /images/percentage-of-purchased-orders-SQL-KPDV.svg
+  altText: Приложение SQL к расчету процента выкупа
   elementId: ''
   styles:
     self:
@@ -24,7 +24,7 @@ seo:
   metaTitle: Процент выкупа
   metaDescription: Расчет процента выкупа заказанных товаров на маркетплейсе
   addTitleSuffix: false
-  socialImage: /images/percentage-of-purchased-orders-KPDV.svg
+  socialImage: /images/percentage-of-purchased-orders-SQL-KPDV.svg
   metaTags: []
 colors: bg-light-fg-dark
 styles:

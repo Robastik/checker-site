@@ -1,7 +1,7 @@
 ---
 type: PostLayout
 title: Оглавление
-date: '2024-08-25'
+date: '2030-12-31'
 excerpt: >-
   Для начала использования сделайте копию файла гугл-таблицы, внесите в нее
   ключи API от своих ЛК и активируйте скрипт; затем пройдите авторизацию и
@@ -9,8 +9,8 @@ excerpt: >-
   Клик здесь, чтобы узнать подробнее → 
 featuredImage:
   type: ImageBlock
-  url: /images/general-and-content.svg
-  altText: Содержание справочных материалов чекера
+  url: /images/table-of-contentst--KPDV.svg
+  altText: Содержание
   styles:
     self:
       borderRadius: medium
@@ -21,7 +21,7 @@ seo:
   type: Seo
   metaTitle: Содержание справочной документации
   metaDescription: Оглавление документации
-  socialImage: /images/beginning-of-all-google-workspace.svg
+  socialImage: /images/table-of-contentst--KPDV.svg
   metaTags: []
 colors: bg-light-fg-dark
 styles:
