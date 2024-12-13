@@ -5,7 +5,7 @@ date: '3000-01-01'
 excerpt: Оглавление справочных материалов →
 featuredImage:
   type: ImageBlock
-  url: /images/beginning-of-all-google-workspace.svg
+  url: /images/table-of-contentst--KPDV.svg
   altText: Содержание справочных материалов чекера
   elementId: ''
   styles:
