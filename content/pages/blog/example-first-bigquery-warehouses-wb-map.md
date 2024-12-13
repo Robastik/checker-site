@@ -17,7 +17,7 @@ featuredImage:
         - pr-0
 bottomSections: []
 slug: /example-first-bigquery-warehouses-WB-map
-isFeatured: false
+isFeatured: true
 isDraft: false
 seo:
   type: Seo

@@ -1,35 +1,30 @@
 ---
 type: PostLayout
 title: Оглавление
-date: '3000-01-01'
-excerpt: Оглавление справочных материалов →
+date: '2030-12-31'
+excerpt: Оглавление. Содержание справочной документации →
 featuredImage:
   type: ImageBlock
   url: /images/table-of-contentst--KPDV.svg
-  altText: Содержание справочных материалов чекера
-  elementId: ''
+  altText: Содержание
   styles:
     self:
-      padding:
-        - pt-0
-        - pl-0
-        - pb-0
-        - pr-0
+      borderRadius: medium
 bottomSections: []
-slug: /table-of-contents
-isFeatured: false
-isDraft: false
+slug: /table-of-contents-old
+isFeatured: true
 seo:
   type: Seo
-  metaTitle: Оглавление
-  metaDescription: Содержание справочных материалов
-  addTitleSuffix: false
+  metaTitle: Содержание справочной документации
+  metaDescription: Оглавление документации
   socialImage: /images/table-of-contentst--KPDV.svg
   metaTags: []
+  addTitleSuffix: false
 colors: bg-light-fg-dark
 styles:
   self:
-    flexDirection: col
+    flexDirection: row
+isDraft: false
 ---
 [Начало работы](/blog/beginning-of-use/) *Предварительная настройка и подготовительные действия*
 
