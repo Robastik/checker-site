@@ -12,7 +12,7 @@ featuredImage:
       borderRadius: medium
 bottomSections: []
 slug: /table-of-contents
-isFeatured: true
+isFeatured: false
 seo:
   type: Seo
   metaTitle: Содержание справочной документации
