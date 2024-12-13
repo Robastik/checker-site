@@ -31,7 +31,7 @@ styles:
   self:
     flexDirection: col
 ---
-Код BigQuery для построения диаграммы **Выкупы**.
+Код для построения диаграммы **Выкупы**:
 
 ```
 WITH
@@ -73,6 +73,53 @@ ORDER BY
   salesDate
 
 ```
+
+
+
+Код для расчета отношения дневных продаж к дневным заказам:
+
+```
+WITH
+orders AS(  
+  SELECT DISTINCT  
+    COUNT(srid) AS totalOrders  
+  FROM   
+    `test-project-my-new.wb_api_statistics.Заказы_*`  
+  WHERE  
+    DATE(SPLIT(_TABLE_SUFFIX, '_')[0]) >= DATE_SUB(CURRENT_DATE(), INTERVAL 14 DAY)  
+    AND  
+    DATE(date) = DATE_SUB(CURRENT_DATE(), INTERVAL 14 DAY)  
+    AND  
+    orderType = 'Клиентский'
+),
+sales AS(  
+  SELECT DISTINCT  
+    COUNT(srid) AS totalSales,  
+    ANY_VALUE(DATE(date)) AS date  
+  FROM   
+    orders,  
+    `test-project-my-new.wb_api_statistics.Продажи_*`  
+  WHERE  
+    DATE(SPLIT(_TABLE_SUFFIX, '_')[0]) >= DATE_SUB(CURRENT_DATE(), INTERVAL 14 DAY)  
+    AND  
+    DATE(date) = DATE_SUB(CURRENT_DATE(), INTERVAL 14 DAY)  
+    AND  
+    orderType = 'Клиентский'
+)
+SELECT
+  *,
+  totalSales/totalOrders AS ratio
+FROM
+  orders, 
+  sales
+
+```
+
+
+
+В запросах нужно поменять **id** тестового проекта *test-project-my-new* на **id** вашего проекта.
+
+
 
 ##### Дальше
 
