@@ -23,6 +23,7 @@ colors: bg-light-fg-dark
 styles:
   self:
     flexDirection: row
+isDraft: false
 ---
 [Начало работы](/blog/beginning-of-use/) *Предварительная настройка и подготовительные действия*
 
