@@ -1,7 +1,7 @@
 ---
 type: PostLayout
 title: Оглавление
-date: '0002-12-31'
+date: '2030-12-31'
 excerpt: Оглавление
 featuredImage:
   type: ImageBlock
