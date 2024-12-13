@@ -21,7 +21,7 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: Чекер→Начало работы
+  metaTitle: Оглавление
   metaDescription: Чек-лист для запуска чекера
   addTitleSuffix: false
   socialImage: /images/beginning-of-all-google-workspace.svg
