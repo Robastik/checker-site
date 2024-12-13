@@ -5,7 +5,7 @@ date: '2024-12-12'
 excerpt: 'Типовые примеры к построению аналитических таблиц → '
 featuredImage:
   type: ImageBlock
-  url: /images/general-and-content.svg
+  url: /images/examples--KPDV.svg
   altText: Содержание справочных материалов чекера
   styles:
     self:
