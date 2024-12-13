@@ -19,6 +19,7 @@ seo:
   metaDescription: Оглавление документации
   socialImage: /images/table-of-contentst--KPDV.svg
   metaTags: []
+  addTitleSuffix: false
 colors: bg-light-fg-dark
 styles:
   self:
