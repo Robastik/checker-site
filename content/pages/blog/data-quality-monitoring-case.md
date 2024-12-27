@@ -1,7 +1,7 @@
 ---
 type: PostLayout
 title: Актуальность данных
-date: '2024-12-09'
+date: '2024-12-02'
 excerpt: Пример расчета выкупа заказанных товаров на Вайлдберриз →
 featuredImage:
   type: ImageBlock
