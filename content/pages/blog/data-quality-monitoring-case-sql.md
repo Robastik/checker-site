@@ -1,7 +1,7 @@
 ---
 type: PostLayout
 title: SQL (актуальность данных)
-date: '2024-12-09'
+date: '2024-12-02'
 excerpt: Код SQL для примера расчета процента выкупа →
 featuredImage:
   type: ImageBlock
