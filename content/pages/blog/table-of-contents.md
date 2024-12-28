@@ -62,3 +62,7 @@ styles:
    [Процент выкупа](/blog/case-percent-buyout-base/) *Расчет процента выкупа заказов*
 
       [Приложение](/blog/case-percent-buyout-base-attachment/) *Код SQL*
+
+   [*Актуальность данных*](/blog/data-quality-monitoring-case/) *Задержка данных в выгрузках API* 
+
+      [*Приложение*](/blog/data-quality-monitoring-case-sql/) *Код SQL*
