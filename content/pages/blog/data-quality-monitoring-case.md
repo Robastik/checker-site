@@ -5,7 +5,7 @@ date: '2024-12-27'
 excerpt: Пример задержки поступления данных в выгрузках API →
 featuredImage:
   type: ImageBlock
-  url: /images/data-quality-by-days-KPDV.svg
+  url: /images/data-quality-by-days-sql-KPDV.svg
   altText: Задержка данных в API
   elementId: ''
   styles:
