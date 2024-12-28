@@ -49,6 +49,6 @@ styles:
 
 ##### Назад
 
-[Примеры](/blog/examples/)
+[Процент выкупа](/blog/case-percent-buyout-base/)
 
 [Оглавление](/blog/table-of-contents)
