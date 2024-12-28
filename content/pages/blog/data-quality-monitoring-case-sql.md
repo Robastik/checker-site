@@ -45,14 +45,14 @@ DateSeries AS (
           8 AS daysPeriod -- Длительность периода в днях      
        )    
   UNION ALL    
-    SELECT      
-      startDate,      
-      DATE_ADD(rollingDate, INTERVAL 1 DAY),      
-      endDate    
-    FROM      
-      DateSeries     
-    WHERE 
-      rollingDate < endDate  
+  SELECT      
+    startDate,      
+    DATE_ADD(rollingDate, INTERVAL 1 DAY),      
+    endDate    
+  FROM      
+    DateSeries     
+  WHERE 
+    rollingDate < endDate  
 ),
 Orders AS (  
   SELECT DISTINCT    
