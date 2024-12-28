@@ -2,7 +2,7 @@
 type: PostLayout
 title: Актуальность данных
 date: '2024-12-27'
-excerpt: Пример расчета выкупа заказанных товаров на Вайлдберриз →
+excerpt: Пример задержки поступления данных в выгрузках API →
 featuredImage:
   type: ImageBlock
   url: /images/percentage-of-purchased-orders-KPDV.svg
