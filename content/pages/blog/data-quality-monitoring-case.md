@@ -21,7 +21,7 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: Актуальность данных
+  metaTitle: SQL (Актуальность данных)
   metaDescription: Задержка поступления данных по API
   addTitleSuffix: false
   socialImage: /images/data-quality-by-days-KPDV.svg
