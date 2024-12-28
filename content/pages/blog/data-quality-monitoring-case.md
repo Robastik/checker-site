@@ -5,7 +5,7 @@ date: '2024-12-27'
 excerpt: Пример задержки поступления данных в выгрузках API →
 featuredImage:
   type: ImageBlock
-  url: /images/data-quality-by-days-sql-KPDV.svg
+  url: /images/data-quality-by-days-KPDV.svg
   altText: Задержка данных в API
   elementId: ''
   styles:
@@ -24,7 +24,7 @@ seo:
   metaTitle: SQL (Актуальность данных)
   metaDescription: SQL для задержки поступления данных по API
   addTitleSuffix: false
-  socialImage: /images/data-quality-by-days-sql-KPDV.svg
+  socialImage: /images/data-quality-by-days-KPDV.svg
   metaTags: []
 colors: bg-light-fg-dark
 styles:
