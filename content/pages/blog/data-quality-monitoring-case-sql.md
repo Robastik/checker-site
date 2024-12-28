@@ -34,7 +34,53 @@ styles:
 Код для подсчета количества заказов в ежедневных таблицах:
 
 ```
-WITH
+WITH RECURSIVE
+DateSeries AS (
+  SELECT      
+    DATE_SUB(CURRENT_DATE(), INTERVAL dayStart + daysPeriod DAY) AS startDate,-- Дальний день смещения       
+    DATE_SUB(CURRENT_DATE(), INTERVAL dayStart + daysPeriod DAY) AS rollingDate,-- Скользящий ближний день      
+    DATE_SUB(CURRENT_DATE(), INTERVAL dayStart DAY) AS endDate -- Ближний день смещения    
+  FROM ( SELECT 
+          1 AS dayStart,  -- Ближний день смещения от текущей даты          
+          8 AS daysPeriod -- Длительность периода в днях      
+       )    
+  UNION ALL    
+    SELECT      
+      startDate,      
+      DATE_ADD(rollingDate, INTERVAL 1 DAY),      
+      endDate    
+    FROM      
+      DateSeries     
+    WHERE 
+      rollingDate < endDate  
+),
+Orders AS (  
+  SELECT DISTINCT    
+    o.srid,    
+    DATE(o.date) AS orderDate,    
+    DATE(SPLIT(o._TABLE_SUFFIX, '_')[0]) AS tableDate  
+  FROM    
+    `test-project-my-new.wb_api_statistics.Заказы_*` AS o,    
+    DateSeries AS ds   
+  WHERE    
+    DATE(SPLIT(o._TABLE_SUFFIX, '_')[0]) BETWEEN ds.startDate AND ds.rollingDate    
+    AND       
+      o.orderType = 'Клиентский'    
+    AND      
+      DATE(o.date) = DATE(ds.startDate)
+)
+SELECT  
+  ANY_VALUE(orderDate) AS `Дата заказа`,  
+  COUNT(DISTINCT srid) AS `Количество заказов`,  
+  tableDate AS `День выгрузки`
+FROM  
+  Orders
+GROUP BY  
+  tableDate
+ORDER BY  
+  tableDate
+
+
 
 ```
 
