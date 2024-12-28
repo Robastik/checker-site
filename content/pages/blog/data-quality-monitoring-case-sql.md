@@ -24,7 +24,7 @@ seo:
   metaTitle: Процент выкупа
   metaDescription: Расчет процента выкупа заказанных товаров на маркетплейсе
   addTitleSuffix: false
-  socialImage: /images/percentage-of-purchased-orders-SQL-KPDV.svg
+  socialImage: /images/data-quality-by-days-sql-KPDV.svg
   metaTags: []
 colors: bg-light-fg-dark
 styles:
