@@ -22,7 +22,7 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: SQL (Актуальность данных)
-  metaDescription: Задержка поступления данных по API
+  metaDescription: SQL для задержки поступления данных по API
   addTitleSuffix: false
   socialImage: /images/data-quality-by-days-KPDV.svg
   metaTags: []
