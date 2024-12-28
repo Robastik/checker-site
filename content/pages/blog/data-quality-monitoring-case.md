@@ -6,7 +6,7 @@ excerpt: Пример задержки поступления данных в в
 featuredImage:
   type: ImageBlock
   url: /images/data-quality-by-days-KPDV.svg
-  altText: Расчет процента выкупа ВБ Озон
+  altText: Задержка данных в API
   elementId: ''
   styles:
     self:
