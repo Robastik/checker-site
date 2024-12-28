@@ -63,6 +63,6 @@ styles:
 
       [Приложение](/blog/case-percent-buyout-base-attachment/) *Код SQL*
 
-   [*Актуальность данных*](/blog/data-quality-monitoring-case/) *Задержка данных в выгрузках API* 
+   [Актуальность данных](/blog/data-quality-monitoring-case/) *Задержка данных в выгрузках API*
 
-      [*Приложение*](/blog/data-quality-monitoring-case-sql/) *Код SQL*
+      [Приложение](/blog/data-quality-monitoring-case-sql/) *Код SQL*

@@ -2,11 +2,11 @@
 type: PostLayout
 title: Актуальность данных
 date: '2024-12-27'
-excerpt: Пример расчета выкупа заказанных товаров на Вайлдберриз →
+excerpt: Пример задержки поступления данных в выгрузках API →
 featuredImage:
   type: ImageBlock
-  url: /images/percentage-of-purchased-orders-KPDV.svg
-  altText: Расчет процента выкупа ВБ Озон
+  url: /images/data-quality-by-days-KPDV.svg
+  altText: Задержка данных в API
   elementId: ''
   styles:
     self:
@@ -21,10 +21,10 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: Процент выкупа
-  metaDescription: Расчет процента выкупа заказанных товаров на маркетплейсе
+  metaTitle: SQL (Актуальность данных)
+  metaDescription: SQL для задержки поступления данных по API
   addTitleSuffix: false
-  socialImage: /images/percentage-of-purchased-orders-KPDV.svg
+  socialImage: /images/data-quality-by-days-sql-KPDV.svg
   metaTags: []
 colors: bg-light-fg-dark
 styles:
