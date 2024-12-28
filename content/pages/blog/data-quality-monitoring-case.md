@@ -45,7 +45,7 @@ styles:
 
 ##### Дальше
 
-[Приложение SQL](/blog/case-percent-buyout-base-attachment/)
+[Приложение SQL](/blog/data-quality-monitoring-case-sql/)
 
 ##### Назад
 
