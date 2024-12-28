@@ -121,6 +121,6 @@ FROM
 
 ##### Назад
 
-[Актуальность данных](/blog/case-percent-buyout-base/)
+[Актуальность данных](/blog/data-quality-monitoring-case/)
 
 [Оглавление](/blog/table-of-contents)
