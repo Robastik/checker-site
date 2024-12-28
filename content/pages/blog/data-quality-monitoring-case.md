@@ -24,7 +24,7 @@ seo:
   metaTitle: Актуальность данных
   metaDescription: Задержка поступления данных по API
   addTitleSuffix: false
-  socialImage: /images/percentage-of-purchased-orders-KPDV.svg
+  socialImage: /images/data-quality-by-days-KPDV.svg
   metaTags: []
 colors: bg-light-fg-dark
 styles:
