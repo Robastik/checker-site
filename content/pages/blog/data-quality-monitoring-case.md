@@ -22,7 +22,7 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: Актуальность данных
-  metaDescription: Расчет процента выкупа заказанных товаров на маркетплейсе
+  metaDescription: Задержка поступления данных по API
   addTitleSuffix: false
   socialImage: /images/percentage-of-purchased-orders-KPDV.svg
   metaTags: []
