@@ -24,7 +24,7 @@ seo:
   metaTitle: SQL (Актуальность данных)
   metaDescription: SQL для задержки поступления данных по API
   addTitleSuffix: false
-  socialImage: /images/data-quality-by-days-KPDV.svg
+  socialImage: /images/data-quality-by-days-sql-KPDV.svg
   metaTags: []
 colors: bg-light-fg-dark
 styles:
