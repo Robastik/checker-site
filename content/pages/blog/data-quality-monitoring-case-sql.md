@@ -21,7 +21,7 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: Процент выкупа
+  metaTitle: SQL (актуальность данных)
   metaDescription: Расчет процента выкупа заказанных товаров на маркетплейсе
   addTitleSuffix: false
   socialImage: /images/data-quality-by-days-sql-KPDV.svg
