@@ -49,16 +49,16 @@ FROM
 LEFT JOIN
   `test-project-my-new.wb_api_statistics.Заказы_*` AS o
 ON
-  SPLIT(o.*TABLE_SUFFIX, '*')\[0] = FORMAT\DATE('%Y-%m-%d', DATE_ADD(target_date, INTERVAL day_diff DAY))
+  SPLIT(o.*TABLE_SUFFIX, '_')[0] = FORMAT\DATE('%Y-%m-%d', DATE_ADD(target_date, INTERVAL day_diff DAY))
 WHERE 
   DATE(o.date) = target_date
+  AND  
+  orderType = 'Клиентский'
 GROUP BY
   `Дата выгрузки`
 ORDER BY
   `Дата выгрузки`;
 ```
-
-
 
 В запросах нужно поменять **id** тестового проекта *test-project-my-new* на **id** вашего проекта.
 
