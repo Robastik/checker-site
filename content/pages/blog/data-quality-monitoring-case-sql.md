@@ -43,13 +43,13 @@ DECLARE explore_days INT64 DEFAULT 17;
 SELECT
   target_date AS `Дата заказа`,
   COUNT(DISTINCT o.srid) AS `Количество заказов`,
-  FORMAT_DATE('%Y-%m-%d', DATE\ADD(target\date, INTERVAL day\diff DAY)) AS `Дата выгрузки`
+  FORMAT_DATE('%Y-%m-%d', DATE_ADD(target_date, INTERVAL day_diff DAY)) AS `Дата выгрузки`
 FROM
   UNNEST(GENERATE_ARRAY(1, explore_days)) AS day_diff
 LEFT JOIN
   `test-project-my-new.wb_api_statistics.Заказы_*` AS o
 ON
-  SPLIT(o.*TABLE_SUFFIX, '_')[0] = FORMAT\DATE('%Y-%m-%d', DATE_ADD(target_date, INTERVAL day_diff DAY))
+  SPLIT(o.TABLE_SUFFIX, '_')[0] = FORMAT_DATE('%Y-%m-%d', DATE_ADD(target_date, INTERVAL day_diff DAY))
 WHERE 
   DATE(o.date) = target_date
   AND  
