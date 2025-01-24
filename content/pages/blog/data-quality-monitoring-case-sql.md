@@ -21,8 +21,8 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: Процент выкупа
-  metaDescription: Расчет процента выкупа заказанных товаров на маркетплейсе
+  metaTitle: SQL (актуальность данных)
+  metaDescription: Подсчет количества заказов в ежедневных выгрузках
   addTitleSuffix: false
   socialImage: /images/data-quality-by-days-sql-KPDV.svg
   metaTags: []
@@ -34,54 +34,30 @@ styles:
 Код для подсчета количества заказов в ежедневных выгрузках:
 
 ```
-WITH RECURSIVE
-DateSeries AS (
-  SELECT      
-    DATE_SUB(CURRENT_DATE(), INTERVAL dayStart + daysPeriod DAY) AS startDate,-- Дальний день смещения       
-    DATE_SUB(CURRENT_DATE(), INTERVAL dayStart + daysPeriod DAY) AS rollingDate,-- Скользящий ближний день      
-    DATE_SUB(CURRENT_DATE(), INTERVAL dayStart DAY) AS endDate -- Ближний день смещения    
-  FROM ( SELECT 
-          1 AS dayStart,  -- Ближний день смещения от текущей даты          
-          8 AS daysPeriod -- Длительность периода в днях      
-       )    
-  UNION ALL    
-  SELECT      
-    startDate,      
-    DATE_ADD(rollingDate, INTERVAL 1 DAY),      
-    endDate    
-  FROM      
-    DateSeries     
-  WHERE 
-    rollingDate < endDate  
-),
-Orders AS (  
-  SELECT DISTINCT    
-    o.srid,    
-    DATE(o.date) AS orderDate,    
-    DATE(SPLIT(o._TABLE_SUFFIX, '_')[0]) AS tableDate  
-  FROM    
-    `test-project-my-new.wb_api_statistics.Заказы_*` AS o,    
-    DateSeries AS ds   
-  WHERE    
-    DATE(SPLIT(o._TABLE_SUFFIX, '_')[0]) BETWEEN ds.startDate AND ds.rollingDate    
-    AND       
-      o.orderType = 'Клиентский'    
-    AND      
-      DATE(o.date) = DATE(ds.startDate)
-)
-SELECT  
-  ANY_VALUE(orderDate) AS `Дата заказа`,  
-  COUNT(DISTINCT srid) AS `Количество заказов`,  
-  tableDate AS `День выгрузки`
-FROM  
-  Orders
-GROUP BY  
-  tableDate
-ORDER BY  
-  tableDate
+-- Define the target date as a variable
+DECLARE target_date DATE DEFAULT DATE('2024-12-19');
+DECLARE explore_days INT64 DEFAULT 17;
 
 
-
+-- Query to count the number of orders from the target date present in tables from the next explore_days days
+SELECT
+  target_date AS `Дата заказа`,
+  COUNT(DISTINCT o.srid) AS `Количество заказов`,
+  FORMAT_DATE('%Y-%m-%d', DATE\ADD(target\date, INTERVAL day\diff DAY)) AS `Дата выгрузки`
+FROM
+  UNNEST(GENERATE_ARRAY(1, explore_days)) AS day_diff
+LEFT JOIN
+  `test-project-my-new.wb_api_statistics.Заказы_*` AS o
+ON
+  SPLIT(o.*TABLE_SUFFIX, '_')[0] = FORMAT\DATE('%Y-%m-%d', DATE_ADD(target_date, INTERVAL day_diff DAY))
+WHERE 
+  DATE(o.date) = target_date
+  AND  
+  orderType = 'Клиентский'
+GROUP BY
+  `Дата выгрузки`
+ORDER BY
+  `Дата выгрузки`;
 ```
 
 В запросах нужно поменять **id** тестового проекта *test-project-my-new* на **id** вашего проекта.
