@@ -42,13 +42,13 @@ export const PostFeedSection: Model = {
             hidden: false,
             localized: false
         },
-        /*{
+        {
             type: 'boolean',
             name: 'showDate',
             label: 'Show post date',
             required: false,
             default: false,
-            hidden: false,
+            hidden: true,
             localized: false
         },
         {
@@ -57,9 +57,9 @@ export const PostFeedSection: Model = {
             label: 'Show post author',
             required: false,
             default: false,
-            hidden: false,
+            hidden: true,
             localized: false
-        },*/
+        },
         {
             type: 'list',
             name: 'actions',
