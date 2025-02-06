@@ -60,7 +60,7 @@ export const FeaturedPostsSection: Model = {
             label: 'Show post date',
             required: false,
             default: false,
-            hidden: false,
+            hidden: true,
             localized: false
         },
         {
@@ -69,7 +69,7 @@ export const FeaturedPostsSection: Model = {
             label: 'Show post author',
             required: false,
             default: false,
-            hidden: false,
+            hidden: true,
             localized: false
         },
         {
