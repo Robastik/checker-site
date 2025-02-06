@@ -22,7 +22,7 @@ export default function PostLayout(props) {
                         <header className="max-w-4xl mx-auto mb-12 text-center">
                             <h1 {...(enableAnnotations && { 'data-sb-field-path': 'title' })}>{title}</h1>
                             <div className="text-sm uppercase mt-4">
-                                /*<time dateTime={dateTimeAttr} {...(enableAnnotations && { 'data-sb-field-path': 'date' })}>
+                                <!--<time dateTime={dateTimeAttr} {...(enableAnnotations && { 'data-sb-field-path': 'date' })}>
                                     {formattedDate}
                                 </time>
                                 {author && (
@@ -30,7 +30,7 @@ export default function PostLayout(props) {
                                         <span className="mx-2">|</span>
                                         <PostAuthor author={author} enableAnnotations={enableAnnotations} />
                                     </>
-                                )}*/
+                                )}-->
                             </div>
                         </header>
                         {markdown_content && (
