@@ -72,14 +72,7 @@ export default function PostFeedItem(props) {
                             {post.title}
                         </span>
                     </TitleTag>
-                    <PostAttribution
-                        showAuthor={showAuthor}
-                        showDate={showDate}
-                        date={post.date}
-                        author={post.author}
-                        className="mt-3"
-                        hasAnnotations={hasAnnotations}
-                    />
+                    
                     {showExcerpt && post.excerpt && (
                         <p className="mt-3" {...(hasAnnotations && { 'data-sb-field-path': 'excerpt' })}>
                             {post.excerpt}
