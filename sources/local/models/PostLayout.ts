@@ -44,7 +44,7 @@ export const PostLayout: Model = {
             name: 'date',
             label: 'Date',
             required: true,
-            hidden: false,
+            hidden: true,
             localized: false
         },
         {
@@ -52,7 +52,7 @@ export const PostLayout: Model = {
             name: 'author',
             label: 'Author',
             required: false,
-            hidden: false,
+            hidden: true,
             localized: false,
             models: ['Person']
         },
