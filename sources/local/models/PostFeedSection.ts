@@ -42,7 +42,7 @@ export const PostFeedSection: Model = {
             hidden: false,
             localized: false
         },
-        {
+        /*{
             type: 'boolean',
             name: 'showDate',
             label: 'Show post date',
@@ -59,7 +59,7 @@ export const PostFeedSection: Model = {
             default: false,
             hidden: false,
             localized: false
-        },
+        },*/
         {
             type: 'list',
             name: 'actions',
