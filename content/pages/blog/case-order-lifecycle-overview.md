@@ -55,7 +55,7 @@ styles:
 
 ##### Дальше
 
-[Приложение SQL](/blog/case-order-lifecycle-overview/)
+[Приложение SQL](/blog/case-order-lifecycle-overview-attachment/)
 
 [Расширенная версия статьи](https://habr.com/ru/articles/881628/)
 
