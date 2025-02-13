@@ -57,6 +57,10 @@ styles:
 
 [Приложение SQL](/blog/data-quality-monitoring-case-sql/)
 
+[Расширенная версия статьи](https://habr.com/ru/articles/870530/)
+
+[Жизненный цикл заказа](/blog/case-order-lifecycle-overview/)
+
 ##### Назад
 
 [Процент выкупа](/blog/case-percent-buyout-base/)
