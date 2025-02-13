@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: SQL (цикл заказа)
+title: SQL (процент выкупа)
 date: '2024-12-09'
 excerpt: Код SQL для примера расчета процента выкупа →
 featuredImage:
