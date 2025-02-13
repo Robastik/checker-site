@@ -22,7 +22,7 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: SQL (цикл заказа)
-  metaDescription: Расчет процента выкупа заказанных товаров на маркетплейсе
+  metaDescription: 'Аналитика заказов, отмен, выкупов и возвратов'
   addTitleSuffix: false
   socialImage: /images/percentage-of-purchased-orders-SQL-KPDV.svg
   metaTags: []
