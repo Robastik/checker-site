@@ -6,7 +6,7 @@ excerpt: 'Аналитика заказов, отмен, продаж и воз�
 featuredImage:
   type: ImageBlock
   url: /images/case-order-lifecycle-overview-KPDV.svg
-  altText: Расчет процента выкупа ВБ Озон
+  altText: Жизненный цикл заказа
   elementId: ''
   styles:
     self:
