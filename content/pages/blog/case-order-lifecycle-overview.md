@@ -2,7 +2,7 @@
 type: PostLayout
 title: Жизненный цикл заказа
 date: '2024-12-09'
-excerpt: Пример расчета выкупа заказанных товаров на Вайлдберриз →
+excerpt: 'Аналитика заказов, отмен, продаж и возвратов →'
 featuredImage:
   type: ImageBlock
   url: /images/percentage-of-purchased-orders-KPDV.svg
