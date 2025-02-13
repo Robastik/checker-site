@@ -57,6 +57,8 @@ styles:
 
 [Приложение SQL](/blog/data-quality-monitoring-case-sql/)
 
+[Жизненный цикл заказа](/blog/case-order-lifecycle-overview/)
+
 ##### Назад
 
 [Процент выкупа](/blog/case-percent-buyout-base/)
