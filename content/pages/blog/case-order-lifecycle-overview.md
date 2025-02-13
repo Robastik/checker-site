@@ -22,7 +22,7 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: Жизненный цикл заказа
-  metaDescription: Расчет процента выкупа заказанных товаров на маркетплейсе
+  metaDescription: 'Аналитика заказов, отмен, продаж и возвратов'
   addTitleSuffix: false
   socialImage: /images/percentage-of-purchased-orders-KPDV.svg
   metaTags: []
