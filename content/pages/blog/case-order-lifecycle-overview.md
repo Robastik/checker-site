@@ -24,7 +24,7 @@ seo:
   metaTitle: Жизненный цикл заказа
   metaDescription: 'Аналитика заказов, отмен, продаж и возвратов'
   addTitleSuffix: false
-  socialImage: /images/percentage-of-purchased-orders-KPDV.svg
+  socialImage: /images/case-order-lifecycle-overview-KPDV.svg
   metaTags: []
 colors: bg-light-fg-dark
 styles:
