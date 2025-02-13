@@ -111,6 +111,10 @@ styles:
 
 [Приложение SQL](/blog/case-percent-buyout-base-attachment/)
 
+[Расширенная версия статьи](https://habr.com/ru/articles/866224/)
+
+[Актуальность данных](/blog/data-quality-monitoring-case/)
+
 ##### Назад
 
 [Примеры](/blog/examples/)
