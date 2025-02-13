@@ -6,7 +6,7 @@ excerpt: Код SQL для примера расчета процента вык
 featuredImage:
   type: ImageBlock
   url: /images/percentage-of-purchased-orders-SQL-KPDV.svg
-  altText: Приложение SQL к расчету процента выкупа
+  altText: Приложение SQL к расчету жизненного цикла заказа
   elementId: ''
   styles:
     self:
