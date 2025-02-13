@@ -5,7 +5,7 @@ date: '2024-12-09'
 excerpt: 'Аналитика заказов, отмен, продаж и возвратов →'
 featuredImage:
   type: ImageBlock
-  url: /images/percentage-of-purchased-orders-KPDV.svg
+  url: /images/Жизненный цикл дневного заказа.svg
   altText: Расчет процента выкупа ВБ Озон
   elementId: ''
   styles:
