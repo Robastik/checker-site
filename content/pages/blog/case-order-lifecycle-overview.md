@@ -61,6 +61,8 @@ styles:
 
 ##### Назад
 
+[Актуальность данных](/blog/data-quality-monitoring-case/)
+
 [Примеры](/blog/examples/)
 
 [Оглавление](/blog/table-of-contents)
