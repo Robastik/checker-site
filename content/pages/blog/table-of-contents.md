@@ -66,3 +66,7 @@ styles:
    [Актуальность данных](/blog/data-quality-monitoring-case/) *Задержка данных в выгрузках API*
 
       [Приложение](/blog/data-quality-monitoring-case-sql/) *Код SQL*
+
+   [Жизненный цикл заказа](/blog/case-order-lifecycle-overview/) *Аналитика заказов, отмен и выкупов*
+
+      [Приложение](/blog/case-order-lifecycle-overview-attachment//) *Код SQL*
