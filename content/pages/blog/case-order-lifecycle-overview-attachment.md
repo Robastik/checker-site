@@ -24,7 +24,7 @@ seo:
   metaTitle: SQL (цикл заказа)
   metaDescription: 'Аналитика заказов, отмен, выкупов и возвратов'
   addTitleSuffix: false
-  socialImage: /images/percentage-of-purchased-orders-SQL-KPDV.svg
+  socialImage: /images/case-order-lifecycle-overview-SQL.svg
   metaTags: []
 colors: bg-light-fg-dark
 styles:
